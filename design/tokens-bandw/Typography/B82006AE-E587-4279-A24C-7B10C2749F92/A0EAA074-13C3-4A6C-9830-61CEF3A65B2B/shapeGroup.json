@@ -14,8 +14,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 414,
-    "width": 780,
+    "height": 534,
+    "width": 822,
     "x": 0,
     "y": 0
   },
@@ -32,7 +32,7 @@
       "id": "D7BE2BA2-B39C-498A-8CBC-60BF629B54BC"
     }
   ],
-  "name": "Rectangle [60 90]",
+  "name": "Rectangle [90 144]",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -47,9 +47,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9759513180272109,
-          "green": 0.9759513180272109,
-          "red": 0.9759513180272109
+          "blue": 0.97,
+          "green": 0.97,
+          "red": 0.97
         },
         "fillType": 0,
         "isEnabled": true,

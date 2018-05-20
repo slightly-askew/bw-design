@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 294,
-    "width": 600,
-    "x": 90,
-    "y": 60
+    "height": 354,
+    "width": 534,
+    "x": 144,
+    "y": 90
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -27,18 +27,18 @@
   "layers": [
     {
       "class": "group",
-      "id": "E395F395-F77F-4465-B5EC-64AEED615EE1"
+      "id": "899E3A2A-2628-418C-A4E5-23A4613BED7E"
     },
     {
       "class": "group",
-      "id": "44F568EA-1428-4F24-9BD6-272E40B42D8E"
+      "id": "84173FF8-AA84-498B-8DE3-82B7774BA3A7"
     },
     {
       "class": "group",
-      "id": "023FFFDB-E414-4A95-9589-59C0FCE4ADED"
+      "id": "2B764386-275F-4D30-BB55-8D25799D50E3"
     }
   ],
-  "name": "Group [120h t]",
+  "name": "Group [108h t]",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

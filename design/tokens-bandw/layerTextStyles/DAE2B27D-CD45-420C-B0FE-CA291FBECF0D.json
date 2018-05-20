@@ -27,7 +27,7 @@
         },
         "MSAttributedStringTextTransformAttribute": 1,
         "baselineOffset": 0,
-        "kerning": -0.1,
+        "kerning": 0.02999999932944775,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,

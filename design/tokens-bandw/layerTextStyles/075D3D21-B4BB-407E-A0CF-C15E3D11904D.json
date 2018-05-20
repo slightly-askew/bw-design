@@ -13,10 +13,10 @@
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 0.9,
+          "alpha": 0.91,
           "blue": 0.1803921568627451,
-          "green": 0.1568627450980392,
-          "red": 0.1529411764705882
+          "green": 0.1490196078431373,
+          "red": 0.1490196078431373
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -25,8 +25,8 @@
             "size": 11
           }
         },
-        "baselineOffset": -1,
-        "kerning": 0.05,
+        "baselineOffset": 1,
+        "kerning": 0.1800000071525574,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "maximumLineHeight": 18,

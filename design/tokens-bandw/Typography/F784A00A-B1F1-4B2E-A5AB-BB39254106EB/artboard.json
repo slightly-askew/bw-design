@@ -23,10 +23,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "F51E9F13-3ED0-4416-8C07-581FC8CDAECB",
-    "height": 414,
-    "width": 780,
-    "x": -68,
-    "y": 286
+    "height": 534,
+    "width": 822,
+    "x": -109,
+    "y": 213
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -44,7 +44,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
