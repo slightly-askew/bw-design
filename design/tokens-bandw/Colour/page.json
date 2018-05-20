@@ -32,6 +32,14 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "group",
+      "id": "2F45779C-FA3E-47E7-8805-AB3534AEFB00"
+    },
+    {
+      "class": "group",
+      "id": "5851801C-5550-4D8F-B249-B93C6925709F"
+    }
   ],
   "name": "Colour",
   "nameIsFixed": true,
