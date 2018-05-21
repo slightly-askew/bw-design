@@ -1,10 +1,10 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "E6D422BF-E340-4F29-A7EF-313E96C1569A",
+  "do_objectID": "4E7EFF8A-529A-427E-AA7C-C421D8176193",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "35CFB547-9DF7-497B-A46D-6E2FDFA61136",
+    "do_objectID": "941038B1-C364-4EAC-B9CB-62578C6C0103",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "A47E6C91-64D0-4721-9FB6-6FCFE3D38182",
+    "do_objectID": "8AE5583B-D954-4C49-81D9-4E4AAFD158CE",
     "height": 90,
-    "width": 144,
-    "x": 288,
+    "width": 192,
+    "x": 192,
     "y": 198
   },
   "hasClickThrough": false,
@@ -31,10 +31,10 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "DF03F59E-45A4-404F-8856-22EFC6787C7D"
+      "id": "4FA144A9-244D-4FFF-8F7D-22694A869550"
     }
   ],
-  "name": "primary/blue 60",
+  "name": "primary/yellow 60",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -42,7 +42,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "CFE1CAFF-E699-46A6-9D31-63BCDE41D5B2",
+    "do_objectID": "1220B288-3A8D-411E-AAE1-96B2B3670626",
     "endDecorationType": 0,
     "fills": [
       {
@@ -50,9 +50,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9400000000000001,
-          "green": 0.6987333333333332,
-          "red": 0.423
+          "blue": 0.4524345012626263,
+          "green": 0.7474205342101381,
+          "red": 1
         },
         "fillType": 0,
         "isEnabled": true,
