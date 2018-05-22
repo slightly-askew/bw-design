@@ -1,9 +1,9 @@
 {
-  "_class": "shapeGroup",
-  "clippingMaskMode": 0,
-  "do_objectID": "C17FF8B2-7BEE-48EC-8F4C-0BE4A612D797",
+  "_class": "group",
+  "do_objectID": "8565EAAD-5EA6-496A-A771-E91809B35403",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "38294EC5-7710-4D93-817B-FAE24AAF6907",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,25 +14,37 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 288,
+    "do_objectID": "2685C0D2-A660-45D5-852D-9A0E812C367F",
+    "height": 90,
     "width": 576,
     "x": 0,
-    "y": 0
+    "y": 198
   },
   "hasClickThrough": false,
-  "hasClippingMask": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "F88939DD-AE25-42F5-9C9C-A5586BE5F9A2"
+      "class": "shapeGroup",
+      "id": "12A4E766-834C-4D06-8B03-24A19F20B8F4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D44BAD47-727A-4484-9538-89D3CAB7C8A2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C0B022C5-339F-4DCF-A41C-16B65ED53AF2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5FF87014-9EB6-43CD-8F53-7BE1FC6E8535"
     }
   ],
-  "name": "primary/blue 50",
+  "name": "shades",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -40,25 +52,8 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "6E81150D-F5E1-4694-922A-95C8D1B3710D",
     "endDecorationType": 0,
-    "fills": [
-      {
-        "_class": "fill",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.89,
-          "green": 0.5055200000000003,
-          "red": 0.2492
-        },
-        "fillType": 0,
-        "isEnabled": true,
-        "noiseIndex": 0,
-        "noiseIntensity": 0,
-        "patternFillType": 1,
-        "patternTileScale": 1
-      }
-    ],
     "miterLimit": 10,
     "startDecorationType": 0
   },
@@ -67,6 +62,5 @@
       "kModelPropertiesKey": {
       }
     }
-  },
-  "windingRule": 1
+  }
 }

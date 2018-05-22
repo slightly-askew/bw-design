@@ -33,10 +33,6 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "5851801C-5550-4D8F-B249-B93C6925709F"
-    },
-    {
       "class": "artboard",
       "id": "123CE872-3171-4480-B2CE-F475D6EC2AD7"
     },
@@ -53,8 +49,32 @@
       "id": "E7A3AB51-79EA-41A5-8261-1E3E8BDB8476"
     },
     {
-      "class": "shapeGroup",
-      "id": "E0D21417-D602-4939-B945-BE433164E3BE"
+      "class": "artboard",
+      "id": "DD154C3C-A741-4E1E-ACD3-9869A04AED2E"
+    },
+    {
+      "class": "group",
+      "id": "2E15EEA1-DF88-4AE2-A35E-ECA807EEF485"
+    },
+    {
+      "class": "group",
+      "id": "3DC68735-89D9-4DF5-9CA9-96F6CC37AED8"
+    },
+    {
+      "class": "group",
+      "id": "AAE6F774-7494-4A10-9434-E563679EDA45"
+    },
+    {
+      "class": "group",
+      "id": "E7D96A8B-FBBB-4C9B-A4F5-9BD4A10B3271"
+    },
+    {
+      "class": "group",
+      "id": "DA975762-4C7F-4B23-AD5F-B8B19A6CCC2D"
+    },
+    {
+      "class": "group",
+      "id": "FD866FAB-AAC2-46B6-A4E0-C5DAA58818F8"
     }
   ],
   "name": "Colour",

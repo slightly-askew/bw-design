@@ -1,11 +1,11 @@
 {
   "_class": "rectangle",
   "booleanOperation": -1,
-  "do_objectID": "7B2A7204-EC6A-403D-B51F-C8F1D278BD78",
-  "edited": true,
+  "do_objectID": "3C470A6B-D00D-48D2-B9FB-05D36D592332",
+  "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "75484F51-EDEE-4FB4-B02A-4EB75A72812E",
+    "do_objectID": "67C43BF0-C916-47F9-A310-971447E56DFD",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -17,9 +17,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "165209D2-CF18-4C6D-A98C-624EE5860EF1",
+    "do_objectID": "16B8E8B4-1E6E-412B-BA18-7C87E0B5507B",
     "height": 90,
-    "width": 90,
+    "width": 144,
     "x": 0,
     "y": 0
   },
@@ -34,6 +34,16 @@
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0, 0}",
+      "curveMode": 1,
+      "curveTo": "{0, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 0}"
+    },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
@@ -68,11 +78,5 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
-    }
-  }
+  "shouldBreakMaskChain": false
 }

@@ -1,0 +1,116 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 0.91,
+            "blue": 0.1803921568627451,
+            "green": 0.1490196078431373,
+            "red": 0.1490196078431373
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Rubik-Regular",
+              "size": 33
+            }
+          },
+          "baselineOffset": 1,
+          "kerning": 0.5400000214576721,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "maximumLineHeight": 54,
+            "minimumLineHeight": 54
+          }
+        },
+        "length": 85,
+        "location": 0
+      }
+    ],
+    "string": "Flames tones are for wood preservation as they inspire warmth and organic materials. "
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "BFBF2A62-F766-427C-A261-6D8A4D8ACDD4",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AC135AE2-47B2-4132-A7C9-5272509818F2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C925319E-565D-44D4-BC82-E1CFF54C0DB7",
+    "height": 162,
+    "width": 576,
+    "x": 0,
+    "y": 126
+  },
+  "glyphBounds": "{{1, 12}, {563, 141}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Description",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "738C06E4-B3B7-4B9B-A1F4-D7CE3B19F749",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "075D3D21-B4BB-407E-A0CF-C15E3D11904D",
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "302FCD2A-78B0-42F9-ACBD-3A4B8902291F",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 0.91,
+          "blue": 0.1803921568627451,
+          "green": 0.1490196078431373,
+          "red": 0.1490196078431373
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Rubik-Regular",
+            "size": 33
+          }
+        },
+        "baselineOffset": 1,
+        "kerning": 0.5400000214576721,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "maximumLineHeight": 54,
+          "minimumLineHeight": 54
+        }
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    }
+  }
+}

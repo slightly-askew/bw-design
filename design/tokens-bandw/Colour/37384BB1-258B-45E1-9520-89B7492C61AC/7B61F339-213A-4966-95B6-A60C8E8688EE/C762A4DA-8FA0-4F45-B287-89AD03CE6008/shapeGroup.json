@@ -34,7 +34,7 @@
       "id": "46FEF024-BB4E-49BE-89FB-78FC2B80A09E"
     }
   ],
-  "name": "primary/pink 60",
+  "name": "primary/blush 60",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -52,7 +52,7 @@
           "alpha": 1,
           "blue": 0.9400000000000001,
           "green": 0.6016,
-          "red": 0.9230800000000001
+          "red": 0.8723200000000003
         },
         "fillType": 0,
         "isEnabled": true,

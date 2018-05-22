@@ -25,11 +25,11 @@
     "do_objectID": "6ED6D578-F6A5-4D78-A27C-A901EA9A5BBF",
     "height": 288,
     "width": 576,
-    "x": 947,
-    "y": -265
+    "x": -308,
+    "y": 611
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -51,7 +51,7 @@
       "id": "7B61F339-213A-4966-95B6-A60C8E8688EE"
     }
   ],
-  "name": "primary/pink",
+  "name": "primary/blush",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

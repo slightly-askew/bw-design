@@ -1,0 +1,116 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 0.97,
+            "blue": 0.1803921568627451,
+            "green": 0.1490196078431373,
+            "red": 0.1490196078431373
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Rubik-Medium",
+              "size": 84
+            }
+          },
+          "baselineOffset": 1,
+          "kerning": -1.080000042915344,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "maximumLineHeight": 108,
+            "minimumLineHeight": 108
+          }
+        },
+        "length": 5,
+        "location": 0
+      }
+    ],
+    "string": "Flame"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "62874737-7359-4960-867C-A3CC04BD4026",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EF52C0F5-9A4C-44B6-BC90-804A03052601",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "06C5E2FA-8E27-45C7-89A1-3F041760A87F",
+    "height": 108,
+    "width": 240,
+    "x": 0,
+    "y": 0
+  },
+  "glyphBounds": "{{6, 22}, {232, 61}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Title",
+  "nameIsFixed": true,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B375454A-7494-4824-B507-43DB1F37BC52",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "9E3D6597-559F-4D02-8450-E579B2577922",
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "261A167F-6036-4DA6-A521-7008287DFEAE",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 0.97,
+          "blue": 0.1803921568627451,
+          "green": 0.1490196078431373,
+          "red": 0.1490196078431373
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Rubik-Medium",
+            "size": 84
+          }
+        },
+        "baselineOffset": 1,
+        "kerning": -1.080000042915344,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "maximumLineHeight": 108,
+          "minimumLineHeight": 108
+        }
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
+}

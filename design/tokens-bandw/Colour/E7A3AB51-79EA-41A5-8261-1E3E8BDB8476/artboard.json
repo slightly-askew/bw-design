@@ -25,11 +25,11 @@
     "do_objectID": "B0C7B838-4120-4EB7-BC48-4735412BD667",
     "height": 288,
     "width": 576,
-    "x": 1641,
-    "y": -265
+    "x": 412,
+    "y": 611
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,

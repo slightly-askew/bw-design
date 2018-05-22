@@ -34,7 +34,7 @@
       "id": "20026F27-339C-4BFA-ADE7-3702195126BD"
     }
   ],
-  "name": "primary/pink 90",
+  "name": "primary/blush 90",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -50,9 +50,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.95254,
+          "blue": 0.97,
           "green": 0.7954,
-          "red": 0.97
+          "red": 0.96127
         },
         "fillType": 0,
         "isEnabled": true,
