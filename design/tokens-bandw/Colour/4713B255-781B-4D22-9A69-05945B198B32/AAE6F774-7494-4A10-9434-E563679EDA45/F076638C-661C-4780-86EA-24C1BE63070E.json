@@ -1,0 +1,116 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 0.91,
+            "blue": 0.1803921568627451,
+            "green": 0.1490196078431373,
+            "red": 0.1490196078431373
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Rubik-Regular",
+              "size": 33
+            }
+          },
+          "baselineOffset": 1,
+          "kerning": 0.5400000214576721,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "maximumLineHeight": 54,
+            "minimumLineHeight": 54
+          }
+        },
+        "length": 111,
+        "location": 0
+      }
+    ],
+    "string": "Blue is the main brand colour and is also used for Damp-proofing, since this is the key service of the company."
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "F076638C-661C-4780-86EA-24C1BE63070E",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FAA28CC9-6EEC-46E0-AB1F-DB426C468A6F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2BA87E30-78AD-4787-9740-61C33B5C0036",
+    "height": 216,
+    "width": 576,
+    "x": 0,
+    "y": 462
+  },
+  "glyphBounds": "{{0, 13}, {561, 193}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Description",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C01403A8-CCA8-490E-992B-D927D961A225",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "075D3D21-B4BB-407E-A0CF-C15E3D11904D",
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "CF6A59A4-3007-41C0-A3D3-95E411B3CB0B",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 0.91,
+          "blue": 0.1803921568627451,
+          "green": 0.1490196078431373,
+          "red": 0.1490196078431373
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Rubik-Regular",
+            "size": 33
+          }
+        },
+        "baselineOffset": 1,
+        "kerning": 0.5400000214576721,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "maximumLineHeight": 54,
+          "minimumLineHeight": 54
+        }
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    }
+  }
+}
