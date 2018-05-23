@@ -35,6 +35,30 @@
     {
       "class": "artboard",
       "id": "DAC1A92F-1447-4F25-8906-2D2CDC292351"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "4E477004-C36D-48E0-A079-AD3C9886860F"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "82F23C36-2132-48FB-8843-CC2111E24B1A"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "BAECF6A0-C3AA-44DF-BF03-A92CAA3F98BF"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "A6DE95AB-DC84-4D7F-8373-A6CC92C50CD3"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "BB05AA89-5EF9-4E97-92E9-2997357DCE19"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "6BE0F932-975A-4795-B721-1D008C0C8440"
     }
   ],
   "name": "Spacing",
