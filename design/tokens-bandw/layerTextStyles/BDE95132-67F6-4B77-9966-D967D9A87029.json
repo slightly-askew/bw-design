@@ -13,24 +13,24 @@
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 0.96,
-          "blue": 0.9764705882352941,
-          "green": 0.9764705882352941,
-          "red": 0.9764705882352941
+          "alpha": 0.9400000000000001,
+          "blue": 0.9686274509803922,
+          "green": 0.9686274509803922,
+          "red": 0.9686274509803922
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Rubik-Medium",
-            "size": 23
+            "size": 21
           }
         },
-        "kerning": -0.119999997317791,
+        "kerning": -0.1095652,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
-          "maximumLineHeight": 30,
-          "minimumLineHeight": 30
+          "maximumLineHeight": 27,
+          "minimumLineHeight": 27
         }
       },
       "verticalAlignment": 0

@@ -24,43 +24,15 @@
           "kerning": -0.05999999865889549,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "maximumLineHeight": 42,
-            "minimumLineHeight": 42
+            "maximumLineHeight": 45,
+            "minimumLineHeight": 45
           }
         },
-        "length": 6,
+        "length": 15,
         "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.9686274509803922,
-            "green": 0.9686274509803922,
-            "red": 0.9686274509803922
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Rubik-Bold",
-              "size": 34
-            }
-          },
-          "baselineOffset": 0,
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "maximumLineHeight": 42,
-            "minimumLineHeight": 42
-          }
-        },
-        "length": 1,
-        "location": 6
       }
     ],
-    "string": "Title 1"
+    "string": "Title 1 · 34 45"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "B4466316-9895-42FC-9738-A68F35B3A931",
@@ -79,19 +51,19 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "D277FCE0-C183-4114-9FFE-C47D29067F14",
-    "height": 42,
-    "width": 102,
+    "height": 45,
+    "width": 225,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 7}, {100, 27}}",
+  "glyphBounds": "{{0, 8}, {224, 27}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Title 1/left/light",
+  "name": "Title 1 · 34 45",
   "nameIsFixed": false,
   "resizingConstraint": 2,
   "resizingType": 0,
@@ -126,8 +98,8 @@
         "kerning": -0.05999999865889549,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "maximumLineHeight": 42,
-          "minimumLineHeight": 42
+          "maximumLineHeight": 45,
+          "minimumLineHeight": 45
         }
       },
       "verticalAlignment": 0

@@ -30,8 +30,8 @@
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
-          "maximumLineHeight": 42,
-          "minimumLineHeight": 42
+          "maximumLineHeight": 45,
+          "minimumLineHeight": 45
         }
       },
       "verticalAlignment": 0

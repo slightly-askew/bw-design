@@ -29,40 +29,11 @@
             "minimumLineHeight": 36
           }
         },
-        "length": 6,
+        "length": 15,
         "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 0.97,
-            "blue": 0.9686274509803922,
-            "green": 0.9686274509803922,
-            "red": 0.9686274509803922
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Rubik-Medium",
-              "size": 28
-            }
-          },
-          "baselineOffset": 1,
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2,
-            "maximumLineHeight": 36,
-            "minimumLineHeight": 36
-          }
-        },
-        "length": 1,
-        "location": 6
       }
     ],
-    "string": "Title 2"
+    "string": "Title 2 · 28 36"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "57E8A4B3-CDF5-41FA-9AFA-D6920C7B0A51",
@@ -82,18 +53,18 @@
     "constrainProportions": false,
     "do_objectID": "B78D4088-EFA4-4D80-826C-56C4AE5BBDB1",
     "height": 36,
-    "width": 82,
-    "x": 12,
-    "y": 78
+    "width": 178,
+    "x": 24,
+    "y": 81
   },
-  "glyphBounds": "{{0, 6}, {81, 22}}",
+  "glyphBounds": "{{0, 6}, {178, 22}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Title 2/center/light",
+  "name": "Title 2 · 28 36",
   "nameIsFixed": false,
   "resizingConstraint": 2,
   "resizingType": 0,

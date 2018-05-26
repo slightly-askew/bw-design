@@ -31,8 +31,8 @@
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 1,
-          "maximumLineHeight": 24,
-          "minimumLineHeight": 24
+          "maximumLineHeight": 18,
+          "minimumLineHeight": 18
         }
       },
       "verticalAlignment": 0

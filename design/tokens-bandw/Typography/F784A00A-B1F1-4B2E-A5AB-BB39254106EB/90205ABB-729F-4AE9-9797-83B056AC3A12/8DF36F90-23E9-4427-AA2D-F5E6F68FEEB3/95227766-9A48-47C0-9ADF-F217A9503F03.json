@@ -29,40 +29,11 @@
             "minimumLineHeight": 18
           }
         },
-        "length": 10,
+        "length": 19,
         "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 0.91,
-            "blue": 0.9686274509803922,
-            "green": 0.9686274509803922,
-            "red": 0.9686274509803922
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Rubik-Regular",
-              "size": 11
-            }
-          },
-          "baselineOffset": 1,
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 1,
-            "maximumLineHeight": 18,
-            "minimumLineHeight": 18
-          }
-        },
-        "length": 1,
-        "location": 10
       }
     ],
-    "string": "Paragraph 2"
+    "string": "Paragraph 2 · 11 18"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "95227766-9A48-47C0-9ADF-F217A9503F03",
@@ -82,18 +53,18 @@
     "constrainProportions": false,
     "do_objectID": "FDB0A7D5-E0CB-4F98-AA9F-00E39AFFDAC0",
     "height": 18,
-    "width": 64,
-    "x": 42,
+    "width": 99,
+    "x": 126,
     "y": 276
   },
-  "glyphBounds": "{{0, 4}, {64, 11}}",
+  "glyphBounds": "{{0, 4}, {98, 11}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Paragraph 2",
+  "name": "Paragraph 2 · 11 18",
   "nameIsFixed": false,
   "resizingConstraint": 2,
   "resizingType": 0,

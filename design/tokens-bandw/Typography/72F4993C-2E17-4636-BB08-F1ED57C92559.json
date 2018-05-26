@@ -17,25 +17,28 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Rubik-Regular",
-              "size": 51
+              "size": 17
             }
           },
+          "baselineOffset": 0,
           "paragraphStyle": {
-            "_class": "paragraphStyle"
-          },
-          "textStyleVerticalAlignmentKey": 0
+            "_class": "paragraphStyle",
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24
+          }
         },
-        "length": 15,
+        "length": 463,
         "location": 0
       }
     ],
-    "string": "Sizes scaled x3"
+    "string": "Curabitur lobortis id lorem id bibendum. Ut id consectetur magna. Quisque volutpat augue enim, pulvinar lobortis nibh lacinia at. Vestibulum nec erat ut mi sollicitudin porttitor id sit amet risus. Nam tempus vel odio vitae aliquam. In imperdiet eros id lacus vestibulum vestibulum. Suspendisse fermentum sem sagittis ante venenatis egestas quis vel justo. Maecenas semper suscipit nunc, sed aliquam sapien convallis eu. Nulla ut turpis in diam dapibus consequat."
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "do_objectID": "1DB2B136-B4AA-4C26-A873-675CA1440030",
+  "do_objectID": "72F4993C-2E17-4636-BB08-F1ED57C92559",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "BA193DFB-6353-4BD0-ADDA-6ABD863513A9",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -46,28 +49,31 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 61,
+    "do_objectID": "6A17EADA-95E5-4620-9123-722B044DE472",
+    "height": 264,
     "width": 360,
-    "x": 2142,
-    "y": 90
+    "x": 1938,
+    "y": -173
   },
-  "glyphBounds": "{{2, 11}, {356, 38}}",
+  "glyphBounds": "{{0, 5}, {358, 257}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "-Sizes scaled x3",
-  "nameIsFixed": true,
-  "resizingConstraint": 47,
+  "name": "Curabitur lobortis i",
+  "nameIsFixed": false,
+  "resizingConstraint": 2,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "B9E77784-7B99-4C9A-8858-C3042A6C2B79",
     "endDecorationType": 0,
     "miterLimit": 10,
+    "sharedObjectID": "EC82B34C-6C34-41CB-9C83-A089DB5B8EED",
     "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
@@ -83,22 +89,24 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Rubik-Regular",
-            "size": 51
+            "size": 17
           }
         },
+        "baselineOffset": 0,
         "paragraphStyle": {
-          "_class": "paragraphStyle"
-        },
-        "textStyleVerticalAlignmentKey": 0
+          "_class": "paragraphStyle",
+          "maximumLineHeight": 24,
+          "minimumLineHeight": 24
+        }
       },
       "verticalAlignment": 0
     }
   },
-  "textBehaviour": 0,
+  "textBehaviour": 1,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "isAutoWidth": 1
+        "isAutoWidth": 0
       }
     }
   }

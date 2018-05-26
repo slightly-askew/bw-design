@@ -27,11 +27,11 @@
             "minimumLineHeight": 24
           }
         },
-        "length": 11,
+        "length": 19,
         "location": 0
       }
     ],
-    "string": "Paragraph 1"
+    "string": "Paragraph 1 · 17 24"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "AF019A66-B6A9-473D-B8FC-0E4E3299E07B",
@@ -51,18 +51,18 @@
     "constrainProportions": false,
     "do_objectID": "FE8B2D23-813D-496A-8157-F714880E8A8E",
     "height": 24,
-    "width": 94,
+    "width": 148,
     "x": 0,
     "y": 216
   },
-  "glyphBounds": "{{1, 5}, {91, 17}}",
+  "glyphBounds": "{{1, 5}, {146, 17}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Paragraph 1/left/light",
+  "name": "Paragraph 1 · 17 24",
   "nameIsFixed": false,
   "resizingConstraint": 2,
   "resizingType": 0,

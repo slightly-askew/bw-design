@@ -13,10 +13,10 @@
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 1,
-          "blue": 0.9764705882352941,
-          "green": 0.9764705882352941,
-          "red": 0.9764705882352941
+          "alpha": 0.97,
+          "blue": 0.9686274509803922,
+          "green": 0.9686274509803922,
+          "red": 0.9686274509803922
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -27,11 +27,11 @@
         },
         "MSAttributedStringTextTransformAttribute": 1,
         "baselineOffset": 0,
-        "kerning": 0.02999999932944775,
+        "kerning": 0.09000000357627869,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "maximumLineHeight": 24,
-          "minimumLineHeight": 24
+          "maximumLineHeight": 18,
+          "minimumLineHeight": 18
         }
       },
       "verticalAlignment": 0

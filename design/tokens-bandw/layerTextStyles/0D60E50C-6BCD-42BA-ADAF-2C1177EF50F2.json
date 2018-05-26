@@ -30,8 +30,8 @@
         "kerning": 0.09000000357627869,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "maximumLineHeight": 24,
-          "minimumLineHeight": 24
+          "maximumLineHeight": 18,
+          "minimumLineHeight": 18
         }
       },
       "verticalAlignment": 0

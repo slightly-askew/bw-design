@@ -33,12 +33,44 @@
   "layerListExpandedType": 0,
   "layers": [
     {
+      "class": "text",
+      "id": "1C082747-AA25-47A4-AE83-343225CEB403"
+    },
+    {
       "class": "artboard",
       "id": "F784A00A-B1F1-4B2E-A5AB-BB39254106EB"
     },
     {
       "class": "artboard",
       "id": "B82006AE-E587-4279-A24C-7B10C2749F92"
+    },
+    {
+      "class": "text",
+      "id": "ABA9D3AD-8F67-4026-B509-A48D933D7E43"
+    },
+    {
+      "class": "text",
+      "id": "A0BDD128-B410-4D3C-93CE-9AE0E5D7CE8E"
+    },
+    {
+      "class": "text",
+      "id": "72F4993C-2E17-4636-BB08-F1ED57C92559"
+    },
+    {
+      "class": "text",
+      "id": "9D83520E-A399-4DA0-87E3-C86722E47E61"
+    },
+    {
+      "class": "text",
+      "id": "B4F211B7-8EAF-4429-9F93-297D3C6A95D1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "750882F3-6FD4-4759-840E-FF693B42614E"
+    },
+    {
+      "class": "group",
+      "id": "32B2582F-994B-49FF-9F45-05B200B99613"
     }
   ],
   "name": "Typography",

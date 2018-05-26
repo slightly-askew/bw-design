@@ -28,11 +28,11 @@
             "minimumLineHeight": 24
           }
         },
-        "length": 11,
+        "length": 19,
         "location": 0
       }
     ],
-    "string": "Paragraph 1"
+    "string": "Paragraph 1 · 17 24"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "73E55B79-ACC6-4A02-9B07-DE77845741FA",
@@ -52,18 +52,18 @@
     "constrainProportions": false,
     "do_objectID": "CCF5902C-618A-42E7-8067-9EC79D6318F0",
     "height": 24,
-    "width": 94,
-    "x": 6,
+    "width": 148,
+    "x": 39,
     "y": 216
   },
-  "glyphBounds": "{{1, 5}, {91, 17}}",
+  "glyphBounds": "{{1, 5}, {146, 17}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Paragraph 1/center/dark",
+  "name": "Paragraph 1 · 17 24",
   "nameIsFixed": false,
   "resizingConstraint": 2,
   "resizingType": 0,

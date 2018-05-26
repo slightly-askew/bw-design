@@ -17,14 +17,14 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Rubik-Regular",
-              "size": 51
+              "size": 34
             }
           },
           "baselineOffset": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "maximumLineHeight": 72,
-            "minimumLineHeight": 72
+            "maximumLineHeight": 48,
+            "minimumLineHeight": 48
           }
         },
         "length": 109,
@@ -48,12 +48,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 144,
-    "width": 1322,
+    "height": 96,
+    "width": 881,
     "x": 0,
-    "y": 141
+    "y": 153
   },
-  "glyphBounds": "{{1, 15}, {1317, 122}}",
+  "glyphBounds": "{{0, 10}, {879, 82}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -70,24 +70,6 @@
     "_class": "style",
     "do_objectID": "BA25E2D9-802C-401D-84A8-B42DE6E8000A",
     "endDecorationType": 0,
-    "fills": [
-      {
-        "_class": "fill",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.847,
-          "green": 0.847,
-          "red": 0.847
-        },
-        "fillType": 0,
-        "isEnabled": false,
-        "noiseIndex": 0,
-        "noiseIntensity": 0,
-        "patternFillType": 1,
-        "patternTileScale": 1
-      }
-    ],
     "miterLimit": 10,
     "sharedObjectID": "EC82B34C-6C34-41CB-9C83-A089DB5B8EED",
     "startDecorationType": 0,
@@ -105,14 +87,14 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Rubik-Regular",
-            "size": 51
+            "size": 34
           }
         },
         "baselineOffset": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "maximumLineHeight": 72,
-          "minimumLineHeight": 72
+          "maximumLineHeight": 48,
+          "minimumLineHeight": 48
         }
       },
       "verticalAlignment": 0

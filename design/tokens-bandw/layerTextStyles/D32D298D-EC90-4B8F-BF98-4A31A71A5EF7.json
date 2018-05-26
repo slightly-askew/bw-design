@@ -22,15 +22,15 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Rubik-Medium",
-            "size": 23
+            "size": 21
           }
         },
-        "kerning": -0.119999997317791,
+        "kerning": -0.1095652,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
-          "maximumLineHeight": 30,
-          "minimumLineHeight": 30
+          "maximumLineHeight": 27,
+          "minimumLineHeight": 27
         }
       },
       "verticalAlignment": 0
