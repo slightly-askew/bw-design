@@ -3,6 +3,160 @@
   "assets": {
     "_class": "assetCollection",
     "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.1,
+        "green": 0.08200000000000002,
+        "red": 0.08290000000000003
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.18,
+        "green": 0.16056,
+        "red": 0.1584
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.65,
+        "green": 0.635375,
+        "red": 0.6305
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8200000000000001,
+        "green": 0.8164466666666668,
+        "red": 0.8118000000000001
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.96,
+        "green": 0.96,
+        "red": 0.96
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.37,
+        "green": 0.09027999999999992,
+        "red": 0.05920000000000001
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.67,
+        "green": 0.262975,
+        "red": 0.1273
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.89,
+        "green": 0.5055200000000003,
+        "red": 0.2492
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9400000000000001,
+        "green": 0.7496499999999999,
+        "red": 0.5170000000000001
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9743303571428571,
+        "green": 0.9134846873097605,
+        "red": 0.7821861366172889
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2956300000000001,
+        "green": 0.37,
+        "red": 0.1221
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.5753199999999999,
+        "green": 0.76,
+        "red": 0.3496
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.6424,
+        "green": 0.88,
+        "red": 0.5632
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.81286,
+        "green": 0.97,
+        "red": 0.7954
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.63,
+        "green": 0.1764,
+        "red": 0.2671200000000001
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.87,
+        "green": 0.4001999999999999,
+        "red": 0.7055700000000001
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9400000000000001,
+        "green": 0.6016,
+        "red": 0.8723200000000003
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.97,
+        "green": 0.7954,
+        "red": 0.96127
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2496999999999999,
+        "green": 0.2035,
+        "red": 0.55
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.4186,
+        "green": 0.63973,
+        "red": 0.91
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.5170000000000001,
+        "green": 0.8131,
+        "red": 0.9400000000000001
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.7081,
+        "green": 0.904525,
+        "red": 0.97
+      }
     ],
     "gradients": [
     ],
@@ -33,9 +187,13 @@
     "version": 103
   },
   "pages": [
+    "Symbols",
     "Colour",
     "Spacing",
-    "Typography"
+    "Typography",
+    "Icons",
+    "Material",
+    "Brand"
   ],
   "userInfo": {
     "com.invisionlabs.sync": {
