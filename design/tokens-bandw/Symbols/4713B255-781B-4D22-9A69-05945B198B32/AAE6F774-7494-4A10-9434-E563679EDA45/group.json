@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "AAE6F774-7494-4A10-9434-E563679EDA45",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B8B3FD9E-AB14-4A77-AFAF-0049B029BEEA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4B429C54-001D-4EB3-8BAF-3506C862AF1E",
+    "height": 678,
+    "width": 576,
+    "x": 1012,
+    "y": 681
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "F076638C-661C-4780-86EA-24C1BE63070E"
+    },
+    {
+      "class": "text",
+      "id": "10A57F15-58AB-41D6-8788-0789597A2019"
+    },
+    {
+      "class": "group",
+      "id": "2F45779C-FA3E-47E7-8805-AB3534AEFB00"
+    }
+  ],
+  "name": "Blue",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C1C106E3-4C86-4455-A9C1-109DD938CD48",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
