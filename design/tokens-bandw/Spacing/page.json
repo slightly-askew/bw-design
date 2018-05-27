@@ -59,6 +59,10 @@
     {
       "class": "symbolMaster",
       "id": "6BE0F932-975A-4795-B721-1D008C0C8440"
+    },
+    {
+      "class": "text",
+      "id": "6E1FCE31-8254-4FB2-839E-0BF1AFB3A6DB"
     }
   ],
   "name": "Spacing",

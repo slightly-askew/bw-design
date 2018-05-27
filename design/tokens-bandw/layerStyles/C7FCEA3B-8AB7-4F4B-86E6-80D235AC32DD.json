@@ -1,0 +1,30 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "C7FCEA3B-8AB7-4F4B-86E6-80D235AC32DD",
+  "name": "colour/flame/30",
+  "value": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2496999999999999,
+          "green": 0.2035,
+          "red": 0.55
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "C7FCEA3B-8AB7-4F4B-86E6-80D235AC32DD",
+    "startDecorationType": 0
+  }
+}

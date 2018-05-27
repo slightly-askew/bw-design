@@ -20,13 +20,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 459,
-    "width": 711,
-    "x": -177,
-    "y": -183
+    "height": 498,
+    "width": 729,
+    "x": -183,
+    "y": -399
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -48,11 +48,7 @@
     },
     {
       "class": "group",
-      "id": "CFB42DF2-F349-46B5-A450-0B6AF3FCD894"
-    },
-    {
-      "class": "group",
-      "id": "F412C13C-A6C8-48F1-83C6-B7B7C139A482"
+      "id": "4EA143D0-7304-4EFE-AE57-2E39B2F3CF1A"
     }
   ],
   "name": "Artboard",

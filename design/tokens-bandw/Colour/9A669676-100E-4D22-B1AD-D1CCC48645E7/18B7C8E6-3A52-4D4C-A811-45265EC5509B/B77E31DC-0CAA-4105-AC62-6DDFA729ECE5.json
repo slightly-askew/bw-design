@@ -1,0 +1,147 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.18,
+            "green": 0.1476,
+            "red": 0.1476
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Rubik-Bold",
+              "size": 102
+            }
+          },
+          "baselineOffset": 0,
+          "kerning": -0.18,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "maximumLineHeight": 135,
+            "minimumLineHeight": 135
+          }
+        },
+        "length": 6,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.18,
+            "green": 0.1476,
+            "red": 0.1476
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Rubik-Bold",
+              "size": 102
+            }
+          },
+          "baselineOffset": 0,
+          "kerning": -0.27,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "maximumLineHeight": 135,
+            "minimumLineHeight": 135
+          }
+        },
+        "length": 1,
+        "location": 6
+      }
+    ],
+    "string": "Colours"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "B77E31DC-0CAA-4105-AC62-6DDFA729ECE5",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EF3BFCCF-BDD4-4430-89F1-BDFE10263D01",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8FCC3D31-72C4-46B6-9CC6-EC237B72674C",
+    "height": 135,
+    "width": 396,
+    "x": 0,
+    "y": 0
+  },
+  "glyphBounds": "{{4, 29}, {389, 75}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Title",
+  "nameIsFixed": true,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C3A8BEBD-C790-49CD-9215-3D072E981024",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "32609535-426C-45B5-AAFA-D4D4137C36E5",
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "57A66631-FF29-47D4-B2AA-8B90CD195FEB",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.18,
+          "green": 0.1476,
+          "red": 0.1476
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Rubik-Bold",
+            "size": 102
+          }
+        },
+        "baselineOffset": 0,
+        "kerning": -0.18,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 2,
+          "maximumLineHeight": 135,
+          "minimumLineHeight": 135
+        }
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
+}

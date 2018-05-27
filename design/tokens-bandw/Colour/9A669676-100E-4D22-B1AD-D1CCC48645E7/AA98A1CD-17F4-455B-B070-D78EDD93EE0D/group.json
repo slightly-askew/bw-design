@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "AA98A1CD-17F4-455B-B070-D78EDD93EE0D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AE43B79D-8153-452C-9AC3-5A9C8DBAA282",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9FF43B3B-ABD5-4FC5-BC4A-0530FFE3106D",
+    "height": 342,
+    "width": 576,
+    "x": 1732,
+    "y": 1947
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "095C40E1-8815-4288-B3B7-D945E0A6405A"
+    },
+    {
+      "class": "text",
+      "id": "948F87D9-1841-42B9-A3C7-7CF45514B7DE"
+    }
+  ],
+  "name": "Blush",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8F0A658D-40D5-445F-8DE8-94C565D7B246",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

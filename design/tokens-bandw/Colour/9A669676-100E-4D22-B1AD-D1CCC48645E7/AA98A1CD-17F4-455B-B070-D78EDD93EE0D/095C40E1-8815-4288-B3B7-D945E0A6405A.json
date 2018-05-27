@@ -1,0 +1,116 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 0.91,
+            "blue": 0.1803921568627451,
+            "green": 0.1490196078431373,
+            "red": 0.1490196078431373
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Rubik-Regular",
+              "size": 33
+            }
+          },
+          "baselineOffset": 1,
+          "kerning": 0.5400000214576721,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "maximumLineHeight": 54,
+            "minimumLineHeight": 54
+          }
+        },
+        "length": 130,
+        "location": 0
+      }
+    ],
+    "string": "Used whenever a colour is used in the designs to make life easier if minor colour corrections \nare implemented during the project."
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "095C40E1-8815-4288-B3B7-D945E0A6405A",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7626200D-E10D-4D8A-872D-A91B000EE17A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6B2293C0-6B69-43F2-B90A-C57F2E384990",
+    "height": 216,
+    "width": 576,
+    "x": 0,
+    "y": 126
+  },
+  "glyphBounds": "{{0, 13}, {566, 194}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Description",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1C6EAAA7-B8BE-486B-92EF-090F639968C5",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "075D3D21-B4BB-407E-A0CF-C15E3D11904D",
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "21773426-7C0F-4DE0-BCD2-AD252077C8BC",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 0.91,
+          "blue": 0.1803921568627451,
+          "green": 0.1490196078431373,
+          "red": 0.1490196078431373
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Rubik-Regular",
+            "size": 33
+          }
+        },
+        "baselineOffset": 1,
+        "kerning": 0.5400000214576721,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "maximumLineHeight": 54,
+          "minimumLineHeight": 54
+        }
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    }
+  }
+}

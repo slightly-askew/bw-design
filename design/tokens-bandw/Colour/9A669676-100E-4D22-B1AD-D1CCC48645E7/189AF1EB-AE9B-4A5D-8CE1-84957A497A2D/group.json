@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "189AF1EB-AE9B-4A5D-8CE1-84957A497A2D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "23FE7E69-77E1-4159-9BF8-0983527A1B7A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "01F15FD4-5E5C-4CF1-A9A6-A9A5A6B05AD5",
+    "height": 624,
+    "width": 576,
+    "x": 292,
+    "y": 1665
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "CB9489AF-6A25-4872-A957-9B997E4C3A86"
+    },
+    {
+      "class": "text",
+      "id": "E48DCBEB-B210-45E8-844C-6ACDB845C220"
+    },
+    {
+      "class": "group",
+      "id": "25E60DFB-4028-42F2-BA9B-215FC5438978"
+    }
+  ],
+  "name": "Flame",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "30176D93-2C18-42D5-85E4-50B91755180F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
