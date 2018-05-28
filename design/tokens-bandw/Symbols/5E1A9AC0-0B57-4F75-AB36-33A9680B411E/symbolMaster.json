@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 991,
+  "changeIdentifier": 992,
   "do_objectID": "5E1A9AC0-0B57-4F75-AB36-33A9680B411E",
   "exportOptions": {
     "_class": "exportOptions",
@@ -52,7 +52,7 @@
       "id": "9E26F4DD-21D9-46B7-A604-B14051085F24"
     }
   ],
-  "name": "Elements/Shadows/Square/Level 4",
+  "name": "material/elevation/40/square",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

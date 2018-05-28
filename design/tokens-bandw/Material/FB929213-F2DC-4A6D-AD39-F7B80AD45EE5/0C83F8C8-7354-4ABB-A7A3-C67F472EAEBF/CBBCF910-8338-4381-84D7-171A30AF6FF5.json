@@ -1,10 +1,11 @@
 {
   "_class": "rectangle",
-  "booleanOperation": -1,
-  "do_objectID": "A2C7C608-81A7-488D-A759-2F1DBBA5EE80",
+  "booleanOperation": 1,
+  "do_objectID": "CBBCF910-8338-4381-84D7-171A30AF6FF5",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "8EDFCF21-1CD0-4DC2-A971-1906433D2899",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,9 +17,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "BFBA246D-1AD9-4288-8DC1-E736B76C306F",
-    "height": 60,
-    "width": 90,
+    "do_objectID": "2E4639F5-BD71-401C-8C9C-5DF11E4CCA3C",
+    "height": 32,
+    "width": 100,
     "x": 0,
     "y": 0
   },
@@ -29,9 +30,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Path",
+  "name": "Mask",
   "nameIsFixed": false,
-  "pointRadiusBehaviour": 1,
+  "pointRadiusBehaviour": 2,
   "points": [
     {
       "_class": "curvePoint",
@@ -77,5 +78,11 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false
+  "shouldBreakMaskChain": false,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
 }

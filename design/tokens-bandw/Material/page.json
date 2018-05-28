@@ -35,6 +35,18 @@
     {
       "class": "symbolMaster",
       "id": "B2393FE4-1AFD-496D-BF7D-EE5F4CD31837"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "FDDA2793-6F59-409E-AC2E-7E3785ABF0D8"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "FB929213-F2DC-4A6D-AD39-F7B80AD45EE5"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "D260E45F-6658-47AA-ABF0-FC941395DDF5"
     }
   ],
   "name": "Material",

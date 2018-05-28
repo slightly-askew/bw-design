@@ -1,9 +1,10 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "097030F6-658B-4E39-9411-8F05AB2B7E07",
+  "do_objectID": "349B679A-F66C-4A04-8850-9E4524AB072E",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "9816487C-49E6-4C78-854A-C82DA72D4D0A",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,9 +15,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "DE7C0022-04D0-4C8D-9160-E151661B8A05",
-    "height": 60,
-    "width": 90,
+    "do_objectID": "B7C35B59-9F62-4585-A6B0-EB896F41FD83",
+    "height": 32,
+    "width": 103.02,
     "x": 0,
     "y": 0
   },
@@ -30,38 +31,42 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "A2C7C608-81A7-488D-A759-2F1DBBA5EE80"
+      "id": "3558136F-DD9F-4894-AD88-534A6A35D625"
     }
   ],
-  "name": "Grey 90",
-  "nameIsFixed": true,
+  "name": "Shadow",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "C4654EFF-118C-4A34-B74F-CEF346BFD494",
+    "do_objectID": "013F19B1-5613-461F-93E8-67AD78454288",
     "endDecorationType": 0,
-    "fills": [
+    "miterLimit": 10,
+    "shadows": [
       {
-        "_class": "fill",
+        "_class": "shadow",
+        "blurRadius": 15,
         "color": {
           "_class": "color",
-          "alpha": 1,
-          "blue": 0.98,
-          "green": 0.9775499999999999,
-          "red": 0.9702
+          "alpha": 0.5,
+          "blue": 0.3019607843137255,
+          "green": 0.2588235294117647,
+          "red": 0.2549019607843137
         },
-        "fillType": 0,
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
         "isEnabled": true,
-        "noiseIndex": 0,
-        "noiseIntensity": 0,
-        "patternFillType": 1,
-        "patternTileScale": 1
+        "offsetX": 0,
+        "offsetY": 12,
+        "spread": -15
       }
     ],
-    "miterLimit": 10,
     "startDecorationType": 0
   },
   "userInfo": {
