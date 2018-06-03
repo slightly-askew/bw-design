@@ -1,0 +1,83 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "92481241-0B77-4175-854F-EFB4722A3D56",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "42FE01F8-09EA-499F-AC7C-6244D9659961",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B73C07AD-7967-48DB-A324-535A265E73F7",
+    "height": 17,
+    "width": 24,
+    "x": 6,
+    "y": 12.5
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "E7F7C315-983E-4100-995D-09BB84BE18BB"
+    },
+    {
+      "class": "rectangle",
+      "id": "F231B0C6-2F32-4964-8F26-AFDED97FF590"
+    },
+    {
+      "class": "rectangle",
+      "id": "89571EA7-ABA8-4FFB-964F-2B24C6410664"
+    }
+  ],
+  "name": "Mask",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B08BAF4F-E685-43F1-B018-BD2A91862B76",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0.91,
+          "blue": 0.1803921568627451,
+          "green": 0.1607843137254902,
+          "red": 0.1568627450980392
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "windingRule": 1
+}

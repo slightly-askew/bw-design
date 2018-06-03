@@ -1,0 +1,84 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "7188C3CE-2D7F-40C4-9A3C-97E52C5104E9",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 1373,
+  "do_objectID": "32B35123-593A-4DD8-97A1-7672111B65E7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "967FEFD8-7813-4B8B-8E16-1E2326D9A481",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "987745E9-CA58-444A-AA63-8FB5D49FF065",
+    "height": 88,
+    "width": 88,
+    "x": 690,
+    "y": -30
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D9C30829-D70E-4896-9A75-B3F453BEA39C",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7E4961A3-B919-48B7-8372-2B4C59A38A11"
+    }
+  ],
+  "name": "Elevation / Radius: 03 / 00 DP",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "39675F14-057F-46DD-A686-048CE58D60B2",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "39394A5C-401E-4E22-8F80-78F06BBD4C31",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4487DB3E-0867-4859-A8F3-17FA6E48A14A",
+    "guides": [
+    ]
+  }
+}

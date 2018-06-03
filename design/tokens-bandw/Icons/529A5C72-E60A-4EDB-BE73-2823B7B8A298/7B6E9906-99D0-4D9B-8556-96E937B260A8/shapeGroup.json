@@ -27,7 +27,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapePath",
@@ -38,7 +38,7 @@
       "id": "7A7B708D-B918-4DB6-B4D2-9575CDB9F23C"
     }
   ],
-  "name": "Combined Shape",
+  "name": "Mask",
   "nameIsFixed": false,
   "originalObjectID": "1C8537E1-DFF3-4123-B72D-62D13C449867",
   "resizingConstraint": 63,

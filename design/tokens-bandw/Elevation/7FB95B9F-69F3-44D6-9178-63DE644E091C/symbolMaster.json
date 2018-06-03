@@ -1,0 +1,84 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "6ED6E2A9-384A-49BE-A6FB-0B73591265AE",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 1847,
+  "do_objectID": "7FB95B9F-69F3-44D6-9178-63DE644E091C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BAE37BCB-6346-41A4-BC40-AAF8A1CA05B4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F69EEA09-6A20-4E90-8976-CD58A0FE318A",
+    "height": 90,
+    "width": 90,
+    "x": 276,
+    "y": -171
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F7BC0CD5-4193-4FE8-B56A-C9D282E47418",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "94CA3F40-8BD7-4F9F-BCC6-D6F98C938731"
+    }
+  ],
+  "name": "Elevation / Radius: 09 / 04 DP",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "53167BE2-3B21-488B-BDB5-82C046F9D7A6",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "23D1C4C6-E2FC-44B5-A1E3-5873DA4798A0",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "92A1F092-5CE7-49FD-B537-DE780184727A",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "17B2B3FE-4779-497F-805F-72CF3D332D69",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 1286,
+  "do_objectID": "68821261-FC56-49CF-BB6D-483B9F5631E4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "11397F7E-340D-4E55-B12E-117EB7487BE4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "09CFA0F6-1D27-4C1C-8C27-A9A509483834",
+    "height": 90,
+    "width": 90,
+    "x": 0,
+    "y": -171
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9A9CB977-708C-4D46-96C6-A98BA16FFE11",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1B950B73-2156-43B7-B7E8-C98B02106659"
+    }
+  ],
+  "name": "Elevation / Radius: 09 / 02 DP",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "34599A56-79A0-4F22-91B8-22B166C4ACA3",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "8314C441-0962-4475-A0B9-B03498CC3DE6",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A46247BA-B5A1-4B71-A822-A40CD82CCFC5",
+    "guides": [
+    ]
+  }
+}

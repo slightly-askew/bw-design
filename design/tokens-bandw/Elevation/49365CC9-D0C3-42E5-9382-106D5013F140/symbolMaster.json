@@ -1,0 +1,84 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "C61BD24B-84AD-410D-8E46-01AFD8465DB7",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 1534,
+  "do_objectID": "49365CC9-D0C3-42E5-9382-106D5013F140",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "60E8B325-F495-4FCC-AC18-9C47D651AAC8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2AE4C2A3-09CA-4385-A5D7-D5DC1ACE9657",
+    "height": 86,
+    "width": 86,
+    "x": 138,
+    "y": 107
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D4244C66-0A3E-4C48-A5AD-3292C551C0CA",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B05BC363-9A63-4556-B5BC-592A54AB827D"
+    }
+  ],
+  "name": "Elevation / Radius: 100 / 03 DP",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E2625315-9EEB-438F-8376-AB81550DD02D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B82F02FF-E4BA-4281-BE8B-FD3167F247DA",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "406FC715-141A-42EC-8CC2-775545546CD5",
+    "guides": [
+    ]
+  }
+}

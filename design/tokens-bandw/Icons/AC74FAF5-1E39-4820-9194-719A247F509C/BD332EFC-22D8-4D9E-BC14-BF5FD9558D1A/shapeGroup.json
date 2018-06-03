@@ -17,8 +17,8 @@
     "constrainProportions": true,
     "do_objectID": "99BCC1E7-C71B-4A58-AE53-8D7E46BC89CF",
     "height": 14,
-    "width": 15.5,
-    "x": 4,
+    "width": 15,
+    "x": 3.999999999999999,
     "y": 5
   },
   "hasClickThrough": false,
@@ -27,7 +27,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapePath",
@@ -38,10 +38,10 @@
       "id": "1EE8BC90-E59D-4165-AF08-6093528E809F"
     }
   ],
-  "name": "Combined Shape",
+  "name": "Mask",
   "nameIsFixed": false,
   "originalObjectID": "1C8537E1-DFF3-4123-B72D-62D13C449867",
-  "resizingConstraint": 63,
+  "resizingConstraint": 18,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -62,7 +62,7 @@
             "modelID": "constraint_08c132cf-000d-467e-9a56-a20f271dfa9f",
             "model_class": "ADModelConstraint",
             "model_version": 0.1,
-            "multiplier": 15.5
+            "multiplier": 15
           },
           "automatic": 1,
           "modelID": "viewConstraints_1dc6fe7f-3863-4f0b-8d99-0293d28022d4",

@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 80190,
+  "changeIdentifier": 81070,
   "do_objectID": "23A628C6-56AE-4F01-919F-B4761F9EAED7",
   "exportOptions": {
     "_class": "exportOptions",
@@ -30,7 +30,7 @@
     "y": -81
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -53,8 +53,8 @@
       "id": "4F0AE5D9-1207-440A-AFD5-14583DDC85F9"
     },
     {
-      "class": "symbolInstance",
-      "id": "85B98E8B-9477-4EF3-BE73-66BC541D2FDF"
+      "class": "group",
+      "id": "4E96E6D2-DC65-4A3B-9FBE-5ADB7E4C0F8F"
     }
   ],
   "name": "brand-assets/logo-108x90",

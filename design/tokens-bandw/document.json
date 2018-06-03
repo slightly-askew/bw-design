@@ -41,41 +41,6 @@
       {
         "_class": "color",
         "alpha": 1,
-        "blue": 0.37,
-        "green": 0.09027999999999992,
-        "red": 0.05920000000000001
-      },
-      {
-        "_class": "color",
-        "alpha": 1,
-        "blue": 0.67,
-        "green": 0.262975,
-        "red": 0.1273
-      },
-      {
-        "_class": "color",
-        "alpha": 1,
-        "blue": 0.89,
-        "green": 0.5055200000000003,
-        "red": 0.2492
-      },
-      {
-        "_class": "color",
-        "alpha": 1,
-        "blue": 0.9400000000000001,
-        "green": 0.7496499999999999,
-        "red": 0.5170000000000001
-      },
-      {
-        "_class": "color",
-        "alpha": 1,
-        "blue": 0.9743303571428571,
-        "green": 0.9134846873097605,
-        "red": 0.7821861366172889
-      },
-      {
-        "_class": "color",
-        "alpha": 1,
         "blue": 0.2956300000000001,
         "green": 0.37,
         "red": 0.1221
@@ -156,6 +121,41 @@
         "blue": 0.7081,
         "green": 0.904525,
         "red": 0.97
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.37,
+        "green": 0.04032999999999987,
+        "red": 0.003700000000000003
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.67,
+        "green": 0.21775,
+        "red": 0.06699999999999999
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.91,
+        "green": 0.4677400000000002,
+        "red": 0.1729
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.97,
+        "green": 0.7342899999999999,
+        "red": 0.4461999999999999
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 1,
+        "green": 0.9145,
+        "red": 0.73
       }
     ],
     "gradients": [
@@ -193,6 +193,7 @@
     "Typography",
     "Icons",
     "Material",
+    "sandbox",
     "Elevation",
     "Brand"
   ],

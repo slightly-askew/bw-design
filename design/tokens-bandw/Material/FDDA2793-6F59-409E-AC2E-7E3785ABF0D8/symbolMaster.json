@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 841,
+  "changeIdentifier": 850,
   "do_objectID": "FDDA2793-6F59-409E-AC2E-7E3785ABF0D8",
   "exportOptions": {
     "_class": "exportOptions",
@@ -30,7 +30,7 @@
     "y": -202
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -53,8 +53,8 @@
       "id": "012CBB1F-503B-418D-8B68-2E0AC986BFC1"
     },
     {
-      "class": "symbolInstance",
-      "id": "A52A7B13-3F06-4842-82E0-62BB7398F95F"
+      "class": "group",
+      "id": "68FB4515-9930-4E2E-83D7-ACDBB62BB30C"
     }
   ],
   "name": "material/backgrounds/square",

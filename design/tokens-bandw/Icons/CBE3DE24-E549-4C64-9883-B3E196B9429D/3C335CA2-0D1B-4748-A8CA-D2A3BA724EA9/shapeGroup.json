@@ -1,0 +1,85 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "3C335CA2-0D1B-4748-A8CA-D2A3BA724EA9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "566EAFC8-AA9D-4430-B86B-1212AA813D8D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CA64945F-6827-4F00-930F-E0182C1615F7",
+    "height": 27,
+    "width": 25,
+    "x": 6,
+    "y": 4
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "2FB1BBD4-A1D2-4CF0-8B16-43D862E13AD5"
+    }
+  ],
+  "name": "Mask",
+  "nameIsFixed": false,
+  "originalObjectID": "88A0E599-0E2B-4CB5-86A7-13E6722441D6",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "AC257D73-C24F-416C-A4D4-703662528F6A",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 6.074999999999999,
+      "type": 0
+    },
+    "do_objectID": "48A9FD32-556B-4885-AB8B-F91F671D9F03",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0.91,
+          "blue": 0.18,
+          "green": 0.16056,
+          "red": 0.1584
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "windingRule": 0
+}

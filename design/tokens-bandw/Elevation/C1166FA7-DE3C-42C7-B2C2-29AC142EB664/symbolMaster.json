@@ -1,0 +1,84 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "0CEBF3C6-4072-4720-882D-2452CF30860F",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 1679,
+  "do_objectID": "C1166FA7-DE3C-42C7-B2C2-29AC142EB664",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "27A7A0E5-EDC4-455A-9DEC-7928417FB64D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2CF5F07E-06A3-46FD-A15A-CB26B62F460A",
+    "height": 86,
+    "width": 86,
+    "x": 414,
+    "y": 107
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "ABAC757E-3510-43AE-ABA2-A11D8281D935",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "AC77441E-AF6A-479C-93B0-F40E6D77B5B5"
+    }
+  ],
+  "name": "Elevation / Radius: 100 / 05 DP",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FD05AB81-6FB7-4071-B12C-33AA457C86CD",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "EFAA67DA-858A-4C5B-B405-EF477AB48753",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0B99D916-3C2E-4643-AE6D-3039D6EF7441",
+    "guides": [
+    ]
+  }
+}

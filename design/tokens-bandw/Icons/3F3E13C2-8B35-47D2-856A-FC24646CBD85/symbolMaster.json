@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 53,
+  "changeIdentifier": 413,
   "do_objectID": "3F3E13C2-8B35-47D2-856A-FC24646CBD85",
   "exportOptions": {
     "_class": "exportOptions",
@@ -26,11 +26,11 @@
     "do_objectID": "4D3F47E0-0D83-43A2-9BC6-0FAB5A6E8A07",
     "height": 24,
     "width": 24,
-    "x": -855,
-    "y": -499
+    "x": -1037,
+    "y": 104
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -53,8 +53,8 @@
       "id": "98DA55B6-556A-4D4C-9A26-447747E0307D"
     },
     {
-      "class": "symbolInstance",
-      "id": "06B1FC0A-B121-4C10-B053-114D9E457B3E"
+      "class": "group",
+      "id": "7A2F566D-AC5A-4A5D-908A-76DE4BD4AECD"
     }
   ],
   "name": "Elements/Icons/call",

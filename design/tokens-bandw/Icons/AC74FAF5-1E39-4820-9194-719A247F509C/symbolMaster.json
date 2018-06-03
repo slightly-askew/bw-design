@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 45,
+  "changeIdentifier": 276,
   "do_objectID": "AC74FAF5-1E39-4820-9194-719A247F509C",
   "exportOptions": {
     "_class": "exportOptions",
@@ -26,11 +26,11 @@
     "do_objectID": "0A42940D-B80F-47D5-BACB-C31D115E0D3C",
     "height": 24,
     "width": 24,
-    "x": -855,
-    "y": -3
+    "x": -1121,
+    "y": 62
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -46,20 +46,20 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "BD332EFC-22D8-4D9E-BC14-BF5FD9558D1A"
     },
     {
-      "class": "symbolInstance",
-      "id": "F2D5E970-BF95-43F3-A444-793927F269F1"
+      "class": "group",
+      "id": "1261075A-B625-4762-9BCC-2B9A47E6B7A0"
     }
   ],
   "name": "Elements/Icons/arrow",
   "nameIsFixed": false,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

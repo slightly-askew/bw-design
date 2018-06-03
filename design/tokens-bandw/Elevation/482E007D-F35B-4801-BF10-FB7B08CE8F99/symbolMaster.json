@@ -1,0 +1,84 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "3B022D66-ECB9-4039-862B-D4DFC838EBA1",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 1088,
+  "do_objectID": "482E007D-F35B-4801-BF10-FB7B08CE8F99",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9985039F-091A-4CE8-B40C-B3FE744A2804",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AE7ECCE5-F303-4E04-9F2E-8C3BAE79CC94",
+    "height": 90,
+    "width": 90,
+    "x": -140,
+    "y": -171
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "46326323-4DE0-4DB2-B8FD-74F9176BE591",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7C49F090-3C6D-4A9F-BAB5-C6CAB33E2FE3"
+    }
+  ],
+  "name": "Elevation / Radius: 09 / 01 DP",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "96C18B2F-432F-4C72-AD25-ACC62D643472",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "FA9FBD61-5C7E-40BB-AD79-AC1CC034013F",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3C6D46E9-AF4D-4089-AE1A-3D558AA41A47",
+    "guides": [
+    ]
+  }
+}

@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1478,
+  "changeIdentifier": 1487,
   "do_objectID": "FB929213-F2DC-4A6D-AD39-F7B80AD45EE5",
   "exportOptions": {
     "_class": "exportOptions",
@@ -30,7 +30,7 @@
     "y": -143
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -53,8 +53,8 @@
       "id": "0C83F8C8-7354-4ABB-A7A3-C67F472EAEBF"
     },
     {
-      "class": "symbolInstance",
-      "id": "7874398A-27A4-485C-9195-65A96CE8CD3C"
+      "class": "group",
+      "id": "D1389DD7-F65C-4C9A-B159-38A44DE8619C"
     }
   ],
   "name": "material/borders/square",

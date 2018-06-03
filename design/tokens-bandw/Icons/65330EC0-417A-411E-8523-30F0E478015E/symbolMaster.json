@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 363,
+  "changeIdentifier": 690,
   "do_objectID": "65330EC0-417A-411E-8523-30F0E478015E",
   "exportOptions": {
     "_class": "exportOptions",
@@ -26,11 +26,11 @@
     "do_objectID": "D4CA9A79-7788-4051-B429-201EB68329E8",
     "height": 24,
     "width": 24,
-    "x": -855,
-    "y": -623
+    "x": -1037,
+    "y": 62
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -46,15 +46,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "67729AAA-8D47-430C-B4F1-64F30536A1C4"
     },
     {
-      "class": "symbolInstance",
-      "id": "B88EBEEA-7A9E-4134-AE45-785EEF8D504D"
+      "class": "group",
+      "id": "21D91AAA-F2E5-43C4-96ED-93B86BA42E83"
     }
   ],
   "name": "Elements/Icons/menu",
