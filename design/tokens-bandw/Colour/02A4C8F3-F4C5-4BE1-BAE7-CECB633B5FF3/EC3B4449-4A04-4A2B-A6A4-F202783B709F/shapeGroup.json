@@ -36,7 +36,7 @@
   ],
   "name": "blush/30",
   "nameIsFixed": true,
-  "resizingConstraint": 63,
+  "resizingConstraint": 18,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -52,7 +52,7 @@
           "alpha": 1,
           "blue": 0.63,
           "green": 0.1764,
-          "red": 0.2671200000000001
+          "red": 0.1990800000000003
         },
         "fillType": 0,
         "isEnabled": true,

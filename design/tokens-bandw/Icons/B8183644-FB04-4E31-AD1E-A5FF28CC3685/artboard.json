@@ -40,7 +40,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
@@ -51,7 +51,7 @@
       "id": "D67184F1-E673-4042-BA14-156FDE4BBD19"
     }
   ],
-  "name": "icons/arrow/left/uppercase/heavy",
+  "name": "icons/arrow/right/uppercase/heavy",
   "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,

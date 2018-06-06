@@ -34,35 +34,15 @@
   "layers": [
     {
       "class": "symbolMaster",
-      "id": "B2393FE4-1AFD-496D-BF7D-EE5F4CD31837"
+      "id": "4BC897A3-1F3C-4E8D-9D76-64BAD88A906D"
     },
     {
       "class": "symbolMaster",
-      "id": "FDDA2793-6F59-409E-AC2E-7E3785ABF0D8"
+      "id": "A24C81F9-7DCB-47E8-B3C1-435ACE997465"
     },
     {
       "class": "symbolMaster",
-      "id": "FB929213-F2DC-4A6D-AD39-F7B80AD45EE5"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "D260E45F-6658-47AA-ABF0-FC941395DDF5"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "7A6340A3-DDCE-47B8-B3F6-20710F9C9E88"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "E226D8AB-2D09-4FF8-B66B-AD95BA231E30"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "C14DB063-1028-4A09-B588-00DFDFDEA1D8"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "762F648B-CAF8-4936-A3E3-AC1A826144CA"
+      "id": "2271476A-C089-4481-950F-B07246AB9C85"
     }
   ],
   "name": "Material",

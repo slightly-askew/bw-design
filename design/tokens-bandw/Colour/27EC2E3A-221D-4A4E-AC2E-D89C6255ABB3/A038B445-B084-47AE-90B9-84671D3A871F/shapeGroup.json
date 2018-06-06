@@ -36,7 +36,7 @@
   ],
   "name": "blush/90",
   "nameIsFixed": true,
-  "resizingConstraint": 63,
+  "resizingConstraint": 18,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -52,7 +52,7 @@
           "alpha": 1,
           "blue": 0.97,
           "green": 0.7954,
-          "red": 0.96127
+          "red": 0.93508
         },
         "fillType": 0,
         "isEnabled": true,

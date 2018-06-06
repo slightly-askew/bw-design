@@ -1,0 +1,54 @@
+{
+  "_class": "group",
+  "do_objectID": "380EECE7-A56F-470A-BD57-FB174B332C13",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C98A617D-7091-43E3-AF43-281ACC8BD84B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "82BF550D-99F4-45C1-B595-E64086D7D3F0",
+    "height": 120,
+    "width": 120,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "400B58E0-F999-43D6-ADB1-A98E45D1A812"
+    }
+  ],
+  "name": "Inner Shadow",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2A0DF9BE-65D1-4223-AE27-7AC6EF583736",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

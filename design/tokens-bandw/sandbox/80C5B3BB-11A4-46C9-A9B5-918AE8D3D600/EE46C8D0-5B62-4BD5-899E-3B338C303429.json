@@ -28,11 +28,11 @@
             "minimumLineHeight": 45
           }
         },
-        "length": 48,
+        "length": 37,
         "location": 0
       }
     ],
-    "string": "Damp proofing and timber preservation in Norwich"
+    "string": "Damp proofing and timber preservation"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "EE46C8D0-5B62-4BD5-899E-3B338C303429",
@@ -51,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "11730290-39E8-42B3-9E60-BEE0BE7499C0",
-    "height": 135,
+    "height": 90,
     "width": 360,
     "x": 145,
     "y": 270
   },
-  "glyphBounds": "{{0, 8}, {340, 117}}",
+  "glyphBounds": "{{0, 8}, {340, 78}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

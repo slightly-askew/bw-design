@@ -17,8 +17,8 @@
     "constrainProportions": true,
     "do_objectID": "EB8D6381-E99F-4015-BD5D-4799ACE9F24C",
     "height": 23.17157287525392,
-    "width": 29.99999999999999,
-    "x": 0,
+    "width": 24,
+    "x": 6,
     "y": 6.409999855301907
   },
   "hasClickThrough": false,
@@ -27,7 +27,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapePath",
@@ -84,7 +84,7 @@
       "kModelPropertiesKey": {
         "constraints": {
           "aspectRatio": {
-            "constant": 25.17157,
+            "constant": 23.17157,
             "enabled": 1,
             "modelID": "constraint_662de101-d3c0-4608-b767-bf6489c584a4",
             "model_class": "ADModelConstraint",

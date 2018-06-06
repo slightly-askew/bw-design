@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1534,
+  "changeIdentifier": 1535,
   "do_objectID": "49365CC9-D0C3-42E5-9382-106D5013F140",
   "exportOptions": {
     "_class": "exportOptions",
@@ -53,7 +53,7 @@
       "id": "B05BC363-9A63-4556-B5BC-592A54AB827D"
     }
   ],
-  "name": "Elevation / Radius: 100 / 03 DP",
+  "name": "Elevation / Radius: 100 / 03 DP / Grey",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

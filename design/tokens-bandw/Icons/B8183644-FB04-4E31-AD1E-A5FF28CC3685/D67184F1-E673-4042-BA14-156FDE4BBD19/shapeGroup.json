@@ -17,8 +17,8 @@
     "constrainProportions": true,
     "do_objectID": "FA941734-BA1E-4E75-8A54-0B6EA198DA91",
     "height": 25.17157287525392,
-    "width": 30.00157284629837,
-    "x": 0,
+    "width": 24.00157284629839,
+    "x": 6,
     "y": 5.414213525958678
   },
   "hasClickThrough": false,
@@ -27,7 +27,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapePath",

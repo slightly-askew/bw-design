@@ -34,31 +34,11 @@
   "layers": [
     {
       "class": "symbolMaster",
-      "id": "65330EC0-417A-411E-8523-30F0E478015E"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "3F3E13C2-8B35-47D2-856A-FC24646CBD85"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "529A5C72-E60A-4EDB-BE73-2823B7B8A298"
-    },
-    {
-      "class": "symbolMaster",
       "id": "63C5C5B5-798B-49E5-986D-A191CC4B8108"
     },
     {
       "class": "symbolMaster",
       "id": "7F02BC2E-BFD6-46D3-9F63-E2113086CFD6"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "AC74FAF5-1E39-4820-9194-719A247F509C"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "493FDE6B-350C-4DC5-B081-4D492F99F298"
     },
     {
       "class": "symbolMaster",

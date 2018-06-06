@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 19671,
+  "changeIdentifier": 19774,
   "do_objectID": "2F18633D-1DE6-4837-854A-B3CDEB47B641",
   "exportOptions": {
     "_class": "exportOptions",
@@ -57,7 +57,7 @@
       "id": "FF0C3836-405B-4FD7-AF5B-A2325FA7746E"
     }
   ],
-  "name": "icons/arrow/left/lowercase",
+  "name": "icons/arrow/right/lowercase",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

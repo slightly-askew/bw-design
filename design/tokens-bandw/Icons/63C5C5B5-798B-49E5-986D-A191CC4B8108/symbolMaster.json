@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 364,
+  "changeIdentifier": 366,
   "do_objectID": "63C5C5B5-798B-49E5-986D-A191CC4B8108",
   "exportOptions": {
     "_class": "exportOptions",
@@ -30,7 +30,7 @@
     "y": 104
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -46,7 +46,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
@@ -57,7 +57,7 @@
       "id": "88E59FE2-8C4B-4A4F-BE05-BF432F7FA135"
     }
   ],
-  "name": "Elements/Icons/chevron/up",
+  "name": "icons/chevron/up",
   "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
