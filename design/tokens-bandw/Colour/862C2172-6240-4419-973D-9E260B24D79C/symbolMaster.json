@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 672,
+  "changeIdentifier": 720,
   "do_objectID": "862C2172-6240-4419-973D-9E260B24D79C",
   "exportOptions": {
     "_class": "exportOptions",
@@ -26,11 +26,11 @@
     "do_objectID": "C6542245-848F-4704-97E7-581ABA942C67",
     "height": 18,
     "width": 18,
-    "x": 1965,
+    "x": 2073,
     "y": 1757
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -53,8 +53,8 @@
       "id": "38038698-5289-4CD0-9581-F0EA89E87ED1"
     }
   ],
-  "name": "colour/green/90",
-  "nameIsFixed": false,
+  "name": "Colour / Green / 80",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

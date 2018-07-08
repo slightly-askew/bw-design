@@ -34,7 +34,7 @@
       "id": "51B0DCC9-28ED-4438-B439-90C08756EA33"
     }
   ],
-  "name": "blue/90",
+  "name": "Fill",
   "nameIsFixed": true,
   "resizingConstraint": 18,
   "resizingType": 0,
@@ -50,9 +50,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 0.9145,
-          "red": 0.73
+          "blue": 0.63,
+          "green": 0.2029649999999996,
+          "red": 0.1071
         },
         "fillType": 0,
         "isEnabled": true,

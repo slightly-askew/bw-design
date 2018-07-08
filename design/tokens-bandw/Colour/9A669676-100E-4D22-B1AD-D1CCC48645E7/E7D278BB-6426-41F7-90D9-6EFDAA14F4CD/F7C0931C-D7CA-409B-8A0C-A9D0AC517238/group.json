@@ -25,23 +25,27 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "6E214754-2A11-40D9-BA63-B68C5A44A786"
+      "class": "shapeGroup",
+      "id": "CBB49D23-57F6-48D5-815D-5E0E2B30ED58"
     },
     {
-      "class": "symbolInstance",
-      "id": "495513EC-F731-460D-8D34-4502331D75BB"
+      "class": "shapeGroup",
+      "id": "5E8EE6F2-4CA6-4BAE-854B-99305E9231D6"
     },
     {
-      "class": "symbolInstance",
-      "id": "D7DEAF2C-C575-41CC-AE9F-FF432467B4ED"
+      "class": "shapeGroup",
+      "id": "D279A0F8-D374-4D3D-96C8-462D69A27A7F"
     },
     {
-      "class": "symbolInstance",
-      "id": "AA9464D6-E07C-4FF8-A0E4-041FDC3C7669"
+      "class": "shapeGroup",
+      "id": "7DB68506-EE07-49D0-903A-D56ED6BF1752"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "20230133-352F-468A-A89C-3FB933061B37"
     }
   ],
   "name": "palette",

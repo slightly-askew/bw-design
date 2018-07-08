@@ -1,0 +1,30 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "F5A3A483-9A50-439E-BF79-9A6FAFCC0F26",
+  "name": "Colour / Blush / 80",
+  "value": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6144504676870748,
+          "green": 0.2386014156306166,
+          "red": 0.3012429243066927
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "F5A3A483-9A50-439E-BF79-9A6FAFCC0F26",
+    "startDecorationType": 0
+  }
+}

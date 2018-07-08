@@ -34,7 +34,7 @@
       "id": "8CFE9F09-F88A-438B-817B-7079077405C8"
     }
   ],
-  "name": "blush/50",
+  "name": "Fill",
   "nameIsFixed": true,
   "resizingConstraint": 18,
   "resizingType": 0,
@@ -50,9 +50,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.87,
-          "green": 0.4001999999999999,
-          "red": 0.6351
+          "blue": 0.9133184523809523,
+          "green": 0.4550736038773148,
+          "red": 0.6841960281291335
         },
         "fillType": 0,
         "isEnabled": true,
@@ -63,6 +63,7 @@
       }
     ],
     "miterLimit": 10,
+    "sharedObjectID": "C5D615FA-19B8-48CD-B1C2-B5EAB6BFCEDD",
     "startDecorationType": 0
   },
   "userInfo": {

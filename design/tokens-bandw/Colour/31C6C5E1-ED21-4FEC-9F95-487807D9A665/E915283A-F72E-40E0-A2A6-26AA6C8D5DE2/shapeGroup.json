@@ -34,7 +34,7 @@
       "id": "F488C1C6-C17D-4078-B914-0A399EED611E"
     }
   ],
-  "name": "flame/60",
+  "name": "Fill",
   "nameIsFixed": true,
   "resizingConstraint": 18,
   "resizingType": 0,
@@ -50,9 +50,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.5170000000000001,
-          "green": 0.8131,
-          "red": 0.9400000000000001
+          "blue": 0.3555392604312282,
+          "green": 0.5169120863192316,
+          "red": 0.8396577380952381
         },
         "fillType": 0,
         "isEnabled": true,
@@ -63,6 +63,7 @@
       }
     ],
     "miterLimit": 10,
+    "sharedObjectID": "8EB626D0-370E-46D7-8969-21D35B4A88CE",
     "startDecorationType": 0
   },
   "userInfo": {

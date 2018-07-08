@@ -43,6 +43,22 @@
     {
       "class": "symbolMaster",
       "id": "2271476A-C089-4481-950F-B07246AB9C85"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1653FE4C-4C07-4644-81BC-52B2D68E35B0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "705B8F0E-1197-4C4C-B79F-9505D98A489A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1ACFC06E-A19A-49B7-BBE5-A448AB7FFE13"
+    },
+    {
+      "class": "group",
+      "id": "37ABD147-F116-4B2F-A6E8-BD693D656F9E"
     }
   ],
   "name": "Material",

@@ -1,0 +1,30 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "AE233637-2674-4171-BD5B-BC15336D2DB8",
+  "name": "Colour / Green / 80",
+  "value": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3154160719167522,
+          "green": 0.3884194302721088,
+          "red": 0.1450749024209194
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "AE233637-2674-4171-BD5B-BC15336D2DB8",
+    "startDecorationType": 0
+  }
+}

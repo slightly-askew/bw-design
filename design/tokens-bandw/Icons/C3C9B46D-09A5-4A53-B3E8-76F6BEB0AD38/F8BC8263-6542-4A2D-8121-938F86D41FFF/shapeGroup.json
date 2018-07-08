@@ -89,7 +89,7 @@
             "modelID": "constraint_662de101-d3c0-4608-b767-bf6489c584a4",
             "model_class": "ADModelConstraint",
             "model_version": 0.1,
-            "multiplier": 30
+            "multiplier": 24
           },
           "automatic": 1,
           "modelID": "viewConstraints_74cc97b9-52dc-41de-a828-e4cac8748f02",

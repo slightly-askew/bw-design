@@ -34,7 +34,7 @@
       "id": "942F201A-00C7-48EF-AA29-888FA227D7F4"
     }
   ],
-  "name": "grey/20",
+  "name": "Fill",
   "nameIsFixed": true,
   "resizingConstraint": 18,
   "resizingType": 0,
@@ -51,8 +51,8 @@
           "_class": "color",
           "alpha": 1,
           "blue": 0.18,
-          "green": 0.16056,
-          "red": 0.1584
+          "green": 0.16542,
+          "red": 0.1638
         },
         "fillType": 0,
         "isEnabled": true,

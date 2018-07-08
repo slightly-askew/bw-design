@@ -34,7 +34,7 @@
       "id": "7999BE02-9CBD-4DFC-90DF-20D5AEE0C2F3"
     }
   ],
-  "name": "blush/90",
+  "name": "Fill",
   "nameIsFixed": true,
   "resizingConstraint": 18,
   "resizingType": 0,
@@ -50,9 +50,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.97,
-          "green": 0.7954,
-          "red": 0.93508
+          "blue": 0.6144504676870748,
+          "green": 0.2386014156306166,
+          "red": 0.3012429243066927
         },
         "fillType": 0,
         "isEnabled": true,
@@ -63,6 +63,7 @@
       }
     ],
     "miterLimit": 10,
+    "sharedObjectID": "F5A3A483-9A50-439E-BF79-9A6FAFCC0F26",
     "startDecorationType": 0
   },
   "userInfo": {

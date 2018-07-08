@@ -41,9 +41,23 @@
       {
         "_class": "color",
         "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
         "blue": 0.2956300000000001,
         "green": 0.37,
         "red": 0.1221
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.5220975073884707,
+        "green": 0.6826902636054422,
+        "red": 0.2812083730630135
       },
       {
         "_class": "color",

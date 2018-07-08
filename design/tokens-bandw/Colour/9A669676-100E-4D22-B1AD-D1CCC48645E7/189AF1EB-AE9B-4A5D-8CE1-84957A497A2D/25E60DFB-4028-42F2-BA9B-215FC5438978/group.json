@@ -28,20 +28,24 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "E3BB8F73-38A8-475F-B7F9-8B0FFA9902D0"
+      "class": "shapeGroup",
+      "id": "5E59580D-4369-4440-924A-31AFED1A9B3E"
     },
     {
-      "class": "symbolInstance",
-      "id": "F941DE6A-24F9-4B0A-81DB-E3F9B5275CC6"
+      "class": "shapeGroup",
+      "id": "A08DFA34-3D43-482B-B2D6-85E963343C7C"
     },
     {
-      "class": "symbolInstance",
-      "id": "8726056F-5804-4A8E-8201-2AEAFAFE1EE5"
+      "class": "shapeGroup",
+      "id": "27BB6B58-8F2A-447B-8368-914465641FE2"
     },
     {
-      "class": "symbolInstance",
-      "id": "2933695D-0069-4B4A-ACD9-989B42EE9657"
+      "class": "shapeGroup",
+      "id": "0684F21B-9940-43DC-AE5C-755E76550144"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3DF95797-26A2-4AF7-93BA-0615D6DB4B14"
     }
   ],
   "name": "Palette",

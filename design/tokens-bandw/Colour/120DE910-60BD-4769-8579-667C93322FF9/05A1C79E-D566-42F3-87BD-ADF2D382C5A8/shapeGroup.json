@@ -32,7 +32,7 @@
       "id": "44B9C959-4BB5-4B87-8153-519EFB615F2D"
     }
   ],
-  "name": "grey/99",
+  "name": "Fill",
   "nameIsFixed": true,
   "resizingConstraint": 18,
   "resizingType": 0,
@@ -40,6 +40,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "2A0B7EF1-246B-45C9-979C-C31F8D69434F",
     "endDecorationType": 0,
     "fills": [
       {
@@ -47,9 +48,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.99,
-          "green": 0.99,
-          "red": 0.99
+          "blue": 0.9882352941176471,
+          "green": 0.9882352941176471,
+          "red": 0.9882352941176471
         },
         "fillType": 0,
         "isEnabled": true,

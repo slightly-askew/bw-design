@@ -1,0 +1,30 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "535F8524-86D4-42B3-B11E-40D526968B94",
+  "name": "Colour / Blue / 50",
+  "value": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9400000000000001,
+          "green": 0.5170000000000002,
+          "red": 0.235
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "535F8524-86D4-42B3-B11E-40D526968B94",
+    "startDecorationType": 0
+  }
+}

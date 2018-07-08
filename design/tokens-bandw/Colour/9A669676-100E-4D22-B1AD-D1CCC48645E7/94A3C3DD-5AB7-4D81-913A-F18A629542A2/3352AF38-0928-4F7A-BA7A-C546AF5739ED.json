@@ -28,11 +28,11 @@
             "minimumLineHeight": 54
           }
         },
-        "length": 226,
+        "length": 225,
         "location": 0
       }
     ],
-    "string": "Grey is a general purpose palette for text colour and background shading. In future, it could be the main theme colour3 for Structural Repairs and/or Asbestos Removal, with colours from other palettes being used as highlights."
+    "string": "Grey is a general purpose palette for text colour and background shading. In future, it could be the main theme colour for Structural Repairs and/or Asbestos Removal, with colours from other palettes being used as highlights."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "3352AF38-0928-4F7A-BA7A-C546AF5739ED",

@@ -1,0 +1,72 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "D5FC9ECA-F58E-483F-861D-7B3EDD7DCA4E",
+  "name": "Material / Green / Primary / Elevation: 03",
+  "value": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5753199999999999,
+          "green": 0.76,
+          "red": 0.3496
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 18,
+        "color": {
+          "_class": "color",
+          "alpha": 0.27,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 3,
+        "spread": -9
+      },
+      {
+        "_class": "shadow",
+        "blurRadius": 12,
+        "color": {
+          "_class": "color",
+          "alpha": 0.54,
+          "blue": 0.5764705882352941,
+          "green": 0.7607843137254902,
+          "red": 0.3490196078431373
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 3,
+        "spread": -6
+      }
+    ],
+    "sharedObjectID": "D5FC9ECA-F58E-483F-861D-7B3EDD7DCA4E",
+    "startDecorationType": 0
+  }
+}

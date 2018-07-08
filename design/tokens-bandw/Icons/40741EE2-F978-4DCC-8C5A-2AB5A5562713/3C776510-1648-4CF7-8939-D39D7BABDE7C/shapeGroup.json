@@ -27,7 +27,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapePath",
@@ -89,7 +89,7 @@
             "modelID": "constraint_6cf2da9c-66e7-49fa-918b-d55935420010",
             "model_class": "ADModelConstraint",
             "model_version": 0.1,
-            "multiplier": 30.00577
+            "multiplier": 24.00577
           },
           "automatic": 1,
           "modelID": "viewConstraints_4408633a-5430-47e0-b476-84cd14d92261",

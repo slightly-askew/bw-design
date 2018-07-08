@@ -109,10 +109,6 @@
       "id": "84785EA5-8D88-4FED-82C7-C717E5AF261F"
     },
     {
-      "class": "text",
-      "id": "87E3B931-10D8-4C97-9FD9-6C7F295B925F"
-    },
-    {
       "class": "artboard",
       "id": "40741EE2-F978-4DCC-8C5A-2AB5A5562713"
     },
@@ -123,6 +119,10 @@
     {
       "class": "artboard",
       "id": "7F8887D0-804F-47EB-B426-28128B4F0506"
+    },
+    {
+      "class": "text",
+      "id": "87E3B931-10D8-4C97-9FD9-6C7F295B925F"
     },
     {
       "class": "artboard",

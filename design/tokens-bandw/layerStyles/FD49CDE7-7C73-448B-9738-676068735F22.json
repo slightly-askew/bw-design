@@ -1,0 +1,30 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "FD49CDE7-7C73-448B-9738-676068735F22",
+  "name": "Colour / Grey / 50",
+  "value": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.65,
+          "green": 0.6374333333333334,
+          "red": 0.624
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "FD49CDE7-7C73-448B-9738-676068735F22",
+    "startDecorationType": 0
+  }
+}
