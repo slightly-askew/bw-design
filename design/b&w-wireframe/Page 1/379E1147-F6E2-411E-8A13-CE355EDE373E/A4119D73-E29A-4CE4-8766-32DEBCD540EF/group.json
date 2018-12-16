@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A4119D73-E29A-4CE4-8766-32DEBCD540EF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 64,
+    "width": 64,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": false,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "572C1261-7A59-4609-A732-1E461F813928"
+    },
+    {
+      "class": "oval",
+      "id": "CB53C0EA-CFAA-4D85-96FF-AC906A8F4993"
+    },
+    {
+      "class": "shapePath",
+      "id": "33500B22-90B7-45D0-ADAD-54E2957AA6F4"
+    },
+    {
+      "class": "shapePath",
+      "id": "985CEA24-F3E2-463B-B919-47000072181E"
+    },
+    {
+      "class": "rectangle",
+      "id": "019CE2A1-9919-4D7D-8F4B-6DE9C146233B"
+    }
+  ],
+  "name": "golden ratio icon grid",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

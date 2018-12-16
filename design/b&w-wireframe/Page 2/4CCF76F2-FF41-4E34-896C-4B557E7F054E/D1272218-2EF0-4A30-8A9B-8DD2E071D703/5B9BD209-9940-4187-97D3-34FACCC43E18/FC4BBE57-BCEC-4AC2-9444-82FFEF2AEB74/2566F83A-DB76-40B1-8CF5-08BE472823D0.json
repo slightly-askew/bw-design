@@ -1,0 +1,116 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2566F83A-DB76-40B1-8CF5-08BE472823D0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "03AE1836-5A03-476E-AC72-99F11B6A56AF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "831919FC-4107-4B99-BBC6-EFE319B9BB36",
+    "height": 36,
+    "width": 174,
+    "x": 0,
+    "y": 32
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "components/mobile-menu/service",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2EF301B0-E1EB-4AD9-8284-A4A3C133381A",
+      "overrideName": "3C313C92-071C-438F-B767-550BAD158BBC_stringValue",
+      "value": "Damp & timber survey"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0977F9CE-F0A4-4A45-9A28-7A59713D81A0",
+      "overrideName": "66ABE7AB-7B76-4E57-9033-D31D0E7DF8A3_symbolID",
+      "value": "CF084A27-D2DD-483C-85A7-8149A6515662"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.75,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "05A90ADD-87FF-4004-9AA4-079E18081DDA",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 7.5,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "12F078A4-34C2-490D-9B79-9820C9C9BA57",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4626488D-3E23-41FC-8003-937D880D698D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "stashedSizeH": [
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_82212fb4-6b91-406d-99c7-2d317d811c36",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_b53c3ecc-2b36-4d7c-a958-fc0c5e002d64",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        ],
+        "stashedSizeV": [
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_c2ef64c9-e8ba-4453-a371-a3fe6c8576dd",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_f86f62a6-b31e-4bc0-9156-958021cba7c0",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        ]
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DE56C6B7-AAF3-4509-BAB9-4C75C1B345E5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E560C6DD-A3EA-4A56-9E03-8F92E249E78A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "28704560-E999-4B93-9326-06B7C91E91BD",
+    "height": 224,
+    "width": 312,
+    "x": 24,
+    "y": 976
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "components / cards / image - mobile",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E156C844-EF68-4AA7-A415-91B4CE7C154C",
+      "overrideName": "13A411BA-6EEB-4167-9A03-9018F3184CDE_stringValue",
+      "value": "Damp proofing"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FDB8E69C-B659-43E9-832F-FDCA675C6787",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C6CC4CF5-D7BE-4FD3-8C0F-77421CFAF48B",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

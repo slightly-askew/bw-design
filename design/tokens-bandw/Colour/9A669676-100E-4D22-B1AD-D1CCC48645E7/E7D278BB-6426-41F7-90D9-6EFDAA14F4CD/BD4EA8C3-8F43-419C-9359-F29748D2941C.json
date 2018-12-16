@@ -35,6 +35,7 @@
     "string": "Blush is used for the water proofing and tanking sections. It is a more prestigious, decorative colour to blue, indicating it is geared more towards enhancement than repair, as well as being associated with a higher fee."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "BD4EA8C3-8F43-419C-9359-F29748D2941C",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -57,6 +58,7 @@
     "y": 462
   },
   "glyphBounds": "{{0, 12}, {556, 357}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -72,10 +74,10 @@
   "style": {
     "_class": "style",
     "do_objectID": "29AA8E06-D8B1-4077-AB8A-A1A49D5FC5F9",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
     "sharedObjectID": "075D3D21-B4BB-407E-A0CF-C15E3D11904D",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "63122856-16A7-455F-8DDC-2AA6C08800CA",
@@ -103,7 +105,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1,
   "userInfo": {

@@ -1,0 +1,89 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EF4C7EB7-4910-48FC-8214-2A33F9F0C630",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "54384C0A-B997-4F9F-9409-CF42D9F3C321",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "27C53397-78B4-497C-B8EE-6CF45BEA0C8A",
+    "height": 32,
+    "width": 40,
+    "x": 24,
+    "y": 3977
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "bw-logo2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "437FD814-9485-482E-81A7-3151F208B80E",
+      "overrideName": "E76C7A3F-4906-4682-A7DB-862DAA55CEFC_layerStyle",
+      "value": "5905C058-F730-460C-AD6E-45A06624B090"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.6666666666666666,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "58FC3416-D634-4863-8E38-29863194BED3",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 6.666666666666666,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "17B3EC7E-E29D-46E6-9BCA-239F179F399F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0BB34554-500B-4E8B-9100-016915138794",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 47,
+            "enabled": 1,
+            "modelID": "constraint_24af05ca-c227-49ce-8182-66ab3082fe1b",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 58.75
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_86242390-2c99-41d9-9bfa-93030607f8e4",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

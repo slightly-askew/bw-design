@@ -35,6 +35,7 @@
     "string": "Green tinting"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "CF5890EE-2492-48ED-B3AA-88CEF38C748C",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -55,6 +56,7 @@
     "y": 834
   },
   "glyphBounds": "{{1, 6}, {171, 28}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

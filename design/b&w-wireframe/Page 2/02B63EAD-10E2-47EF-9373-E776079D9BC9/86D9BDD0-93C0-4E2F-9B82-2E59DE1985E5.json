@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "86D9BDD0-93C0-4E2F-9B82-2E59DE1985E5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7E579CA1-AC9C-447A-8113-A903BAE49BEC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A21A05A1-FE33-46E3-A75D-B8A3C2AA3F06",
+    "height": 80,
+    "width": 466,
+    "x": 464,
+    "y": 2342
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "elements/button",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "21B3A252-6596-4DE5-8BCE-616AB042A017",
+      "overrideName": "71E38C29-CD63-4C5D-879E-D740B603CB6C_stringValue",
+      "value": "Get a quote for your property today"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3B3C5314-B3D7-4E70-AB9E-48E8BC5496B4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1484A550-1700-4F69-AFFE-F286B94E5A83",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

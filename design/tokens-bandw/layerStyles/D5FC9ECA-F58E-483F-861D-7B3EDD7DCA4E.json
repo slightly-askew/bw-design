@@ -4,7 +4,7 @@
   "name": "Material / Green / Primary / Elevation: 03",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -67,6 +67,7 @@
       }
     ],
     "sharedObjectID": "D5FC9ECA-F58E-483F-861D-7B3EDD7DCA4E",
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }

@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9B5C10D2-5FDC-4696-B77F-10CA303BB871",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "611E2FCB-A7C8-46F5-BE48-0F1FA9910245",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "563E2B1E-3B45-457D-9A2A-D57F4EB4E0ED",
+    "height": 155,
+    "width": 194,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "bw-logo",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C5068E90-DC0E-4026-A9A4-3533A65D6BB7",
+      "overrideName": "E76C7A3F-4906-4682-A7DB-862DAA55CEFC_layerStyle",
+      "value": "9BCA5632-AF79-420A-8E57-2DF97EFEA758"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3D119112-5398-4D8A-9F17-0E5BA6B3E316",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0BB34554-500B-4E8B-9100-016915138794",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

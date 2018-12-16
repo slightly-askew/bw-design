@@ -4,7 +4,7 @@
   "name": "Colour / Green / 60",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -25,6 +25,7 @@
     ],
     "miterLimit": 10,
     "sharedObjectID": "9563D9F7-4BAC-4B20-A070-7563FA3BB605",
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }

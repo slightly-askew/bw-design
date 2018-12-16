@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "49053195-F9A2-40BD-AE08-0F3F41805ECA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "13A70E4D-0CC6-40B1-AAC5-62708BA7270F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "14E7D931-7793-443D-9788-49A8988B8A9E",
+    "height": 429,
+    "width": 560,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "components/cards/image card",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1E54D9D3-0B12-480E-BBD1-AEC39E140099",
+      "overrideName": "68D9735D-BC08-4BC0-A761-AAEB1BB66404_stringValue",
+      "value": "Damp & Timber survey"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B726386B-AAE6-4533-B6EA-E77F46705854",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1D19C76E-565E-4C90-9481-E28776E96ED4",
+  "verticalSpacing": 0
+}

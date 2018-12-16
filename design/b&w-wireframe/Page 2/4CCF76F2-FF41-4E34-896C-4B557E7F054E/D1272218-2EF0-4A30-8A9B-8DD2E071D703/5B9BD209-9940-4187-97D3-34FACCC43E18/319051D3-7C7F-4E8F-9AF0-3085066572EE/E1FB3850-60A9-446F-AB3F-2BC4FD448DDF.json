@@ -1,0 +1,98 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E1FB3850-60A9-446F-AB3F-2BC4FD448DDF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8B9D7741-054D-4D74-921B-96E1D493F5BA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D2F93A71-3931-4F53-B5CD-180597B8B526",
+    "height": 36,
+    "width": 174,
+    "x": 0,
+    "y": 32
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "components/mobile-menu/service",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2EF301B0-E1EB-4AD9-8284-A4A3C133381A",
+      "overrideName": "3C313C92-071C-438F-B767-550BAD158BBC_stringValue",
+      "value": "Asbestos removal"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0977F9CE-F0A4-4A45-9A28-7A59713D81A0",
+      "overrideName": "66ABE7AB-7B76-4E57-9033-D31D0E7DF8A3_symbolID",
+      "value": "58015702-3585-4F86-AD6E-3486CE8A4947"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.75,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "66B55102-4D23-4B61-9498-88ADCE4210E5",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 7.5,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "73E1AC74-C45C-4D93-B814-AFF544BEF47C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4626488D-3E23-41FC-8003-937D880D698D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "stashedSizeH": [
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_ae0f2378-bb92-4a38-8fb8-27205c4cc19d",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_d6944b91-78d8-4295-9e52-7f942661e2a3",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        ]
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

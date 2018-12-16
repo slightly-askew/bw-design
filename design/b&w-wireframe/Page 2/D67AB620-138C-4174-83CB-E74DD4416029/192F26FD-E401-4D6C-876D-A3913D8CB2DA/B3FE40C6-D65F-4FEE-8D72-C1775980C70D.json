@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B3FE40C6-D65F-4FEE-8D72-C1775980C70D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EED9628A-95BB-444E-A03C-2968DF1551B0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "90804CBB-89C4-4D9F-A484-F2FB83C9D882",
+    "height": 48,
+    "width": 224,
+    "x": 0,
+    "y": 224
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "components/mobile-menu/service",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2EF301B0-E1EB-4AD9-8284-A4A3C133381A",
+      "overrideName": "3C313C92-071C-438F-B767-550BAD158BBC_stringValue",
+      "value": "Asbestos removal"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0977F9CE-F0A4-4A45-9A28-7A59713D81A0",
+      "overrideName": "66ABE7AB-7B76-4E57-9033-D31D0E7DF8A3_symbolID",
+      "value": "58015702-3585-4F86-AD6E-3486CE8A4947"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "42AEB885-EB39-41D8-BBB1-A20BD09F019E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4626488D-3E23-41FC-8003-937D880D698D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

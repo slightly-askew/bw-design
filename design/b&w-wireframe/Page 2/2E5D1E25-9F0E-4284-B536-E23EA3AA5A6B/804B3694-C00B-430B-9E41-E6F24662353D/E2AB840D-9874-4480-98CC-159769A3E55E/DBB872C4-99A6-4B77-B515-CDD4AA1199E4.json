@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DBB872C4-99A6-4B77-B515-CDD4AA1199E4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A4629CC8-B760-44C5-9E79-0AA97ABB78BE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1071A99C-7BD2-4F69-91A7-B8364D3C9E78",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 347
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Free-Pack / stamps-famous",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "53C7C997-5BE3-43B5-AF6D-F1C5DE27CB10",
+      "overrideName": "38D7A60F-2920-4C49-8673-1FFA84BE477C_layerStyle",
+      "value": "9BCA5632-AF79-420A-8E57-2DF97EFEA758"
+    }
+  ],
+  "resizingConstraint": 41,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "50EC5252-AFB5-4C35-89F9-51F25DA71D4D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D52FC11C-2345-49A5-8B01-05E8564689C5",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

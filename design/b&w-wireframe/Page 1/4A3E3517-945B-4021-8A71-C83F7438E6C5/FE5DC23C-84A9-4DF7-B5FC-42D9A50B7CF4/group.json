@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FE5DC23C-84A9-4DF7-B5FC-42D9A50B7CF4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CFD23DF1-C4E9-479B-A67E-B1343E449850",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "39670DA1-2B7E-4383-B8A4-6F7BB7B37440",
+    "height": 568,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "C1B26299-F25F-473E-945D-0C53C32F516C"
+    },
+    {
+      "class": "text",
+      "id": "704E5858-ABC5-4F5B-ACC8-742EE51694B2"
+    },
+    {
+      "class": "text",
+      "id": "7828AC45-6D3F-4755-B428-A0A9E81C20AB"
+    }
+  ],
+  "name": "Hero",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "97822EC1-639A-4F71-829E-4F37499A1968",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

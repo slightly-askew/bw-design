@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C69203E2-273F-4E1A-A657-41A27BFE1F1F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "721A2C6F-1EF2-4DF8-839A-D03C88355410",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5759AE55-7F27-47C6-A700-07C3D8FADFA6",
+    "height": 224,
+    "width": 312,
+    "x": 24,
+    "y": 1440
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "components / cards / image - mobile",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "13A411BA-6EEB-4167-9A03-9018F3184CDE_stringValue",
+      "value": "Waterproofing and tanking"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6AB20113-B56F-4363-93A8-3414F4084784",
+      "overrideName": "4FBDB338-A398-477F-A5AC-B3B37C1CD195_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/ceab5b07f89f6d59a1bfc090e822f75d6c6e73bb.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "94986D59-8C5F-42BD-9442-516BB645A2B1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C6CC4CF5-D7BE-4FD3-8C0F-77421CFAF48B",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

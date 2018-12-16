@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "362F9EC1-F5A9-4246-AC72-73B669789E97",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "042FF618-4BE7-41B7-B8C7-6F590A0FCB75",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8D1E25A8-EF59-435C-A61A-A970028E1C22",
+    "height": 48,
+    "width": 224,
+    "x": 0,
+    "y": 112
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "components/mobile-menu/service",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9F82E46A-EE13-4106-A9AE-20E124CCD94A",
+      "overrideName": "3C313C92-071C-438F-B767-550BAD158BBC_stringValue",
+      "value": "Waterproofing"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "68FBDE16-39FC-42B1-884D-B31FBE03C2C4",
+      "overrideName": "66ABE7AB-7B76-4E57-9033-D31D0E7DF8A3_symbolID",
+      "value": "6CE0BED6-5319-4E01-B465-C25954AB39FF"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C03DE586-AD1E-4035-B03E-2C92A37F9EDD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4626488D-3E23-41FC-8003-937D880D698D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

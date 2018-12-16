@@ -1,0 +1,76 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6A2F3EC0-BBAC-4E1B-8C31-515B46127C0E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6848F23D-30C8-4FBE-A8FD-CF70C7F3269E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BDF5E076-B70C-49AA-9CCE-05DB1877455A",
+    "height": 32,
+    "width": 340,
+    "x": 406,
+    "y": 28
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "E2FC043E-9D01-4586-9A02-F4F9E7049A7E"
+    },
+    {
+      "class": "text",
+      "id": "6C96DC5A-C767-497F-A32B-4B3397B66F6A"
+    },
+    {
+      "class": "text",
+      "id": "630DD5E5-D3A9-4690-B85F-9E060698FCF6"
+    }
+  ],
+  "name": "Navigation",
+  "nameIsFixed": true,
+  "resizingConstraint": 13,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F7E1EB14-6B92-4F6D-A985-EE05B474CD95",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.davidwilliames.sketch-plugins.paddy2": {
+      "Alignment": [
+      ],
+      "Stack": {
+        "Collapsing": 1,
+        "Orientation": 2,
+        "Spacing": 64
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EB11FC6C-8581-4768-8AEA-977590955A86",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 224,
+    "width": 312,
+    "x": 24,
+    "y": 1888
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "components / cards / image - mobile",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "13A411BA-6EEB-4167-9A03-9018F3184CDE_stringValue",
+      "value": "Asbestos removal"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EFFAD2E7-AF9E-476A-83C6-7E4013C0AED1",
+      "overrideName": "4FBDB338-A398-477F-A5AC-B3B37C1CD195_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/bcc1f6514cc5ca7fcb643c8a63245f8a6e10ba17.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C6CC4CF5-D7BE-4FD3-8C0F-77421CFAF48B",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

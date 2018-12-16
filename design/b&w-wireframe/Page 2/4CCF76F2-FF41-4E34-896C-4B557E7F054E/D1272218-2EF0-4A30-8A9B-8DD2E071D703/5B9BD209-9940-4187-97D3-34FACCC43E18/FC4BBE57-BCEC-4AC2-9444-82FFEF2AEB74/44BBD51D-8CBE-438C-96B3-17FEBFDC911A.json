@@ -1,0 +1,116 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "44BBD51D-8CBE-438C-96B3-17FEBFDC911A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "16E396D1-E387-44B3-B81D-283351D49E08",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2876C7EB-41D3-4D5B-AD27-252FDBB753FD",
+    "height": 36,
+    "width": 174,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "components/mobile-menu/service",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9F82E46A-EE13-4106-A9AE-20E124CCD94A",
+      "overrideName": "3C313C92-071C-438F-B767-550BAD158BBC_stringValue",
+      "value": "Waterproofing"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "68FBDE16-39FC-42B1-884D-B31FBE03C2C4",
+      "overrideName": "66ABE7AB-7B76-4E57-9033-D31D0E7DF8A3_symbolID",
+      "value": "6CE0BED6-5319-4E01-B465-C25954AB39FF"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.75,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "75A584BB-7D6F-4C31-9511-7E9CD33989F3",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 7.5,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "197C2541-BB9E-4EC4-AAE0-430B1E7A4377",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4626488D-3E23-41FC-8003-937D880D698D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "stashedSizeH": [
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_f6a5d358-6d7a-4ad7-b2e9-6889c11945bc",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_07013d67-99c9-4a3b-8aa9-eea29a8ea24e",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        ],
+        "stashedSizeV": [
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_3557a1f6-6861-49ed-97b4-7bd00a39afc7",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_28f6c767-3d98-404a-94a5-862981af132b",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        ]
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

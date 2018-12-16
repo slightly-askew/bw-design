@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5E98CB7F-EEA6-45C6-8E48-E79BB31CBDAA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F7AA7B7C-549D-48B6-8F0D-D5E3BDFF2DA7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3CEC5E57-929D-4A88-AE35-E1980DC63F0E",
+    "height": 429,
+    "width": 560,
+    "x": 624,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "components/cards/image card",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F99CC7B6-2001-4C6A-AA6A-092DA4EE8870",
+      "overrideName": "68D9735D-BC08-4BC0-A761-AAEB1BB66404_stringValue",
+      "value": "Timber preservation"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AB703ADB-DF9D-4F2B-9D3D-BC98521DE8D6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1D19C76E-565E-4C90-9481-E28776E96ED4",
+  "verticalSpacing": 0
+}

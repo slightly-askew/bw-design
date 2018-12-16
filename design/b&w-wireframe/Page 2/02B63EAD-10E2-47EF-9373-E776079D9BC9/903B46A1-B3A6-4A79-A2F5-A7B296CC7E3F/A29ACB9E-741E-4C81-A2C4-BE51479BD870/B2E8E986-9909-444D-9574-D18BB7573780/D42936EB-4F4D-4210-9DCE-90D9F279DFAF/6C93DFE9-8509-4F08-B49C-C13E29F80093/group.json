@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6C93DFE9-8509-4F08-B49C-C13E29F80093",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "30ADF57E-8607-4E45-A236-FEE23D74D817",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "117FBD63-09FC-4F64-99F7-9C724DFA655E",
+    "height": 71,
+    "width": 484,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "7B37892F-DC2F-46B4-A49B-95EA189DD0CC"
+    },
+    {
+      "class": "text",
+      "id": "7DA5A4B6-A45A-41BB-8B7B-9DBA51DCB298"
+    }
+  ],
+  "name": "Service - short description",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AF863EE1-B89E-45F8-8790-BE45B26FA896",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

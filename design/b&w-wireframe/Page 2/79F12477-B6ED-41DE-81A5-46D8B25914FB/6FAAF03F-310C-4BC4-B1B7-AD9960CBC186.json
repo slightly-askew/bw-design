@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6FAAF03F-310C-4BC4-B1B7-AD9960CBC186",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "77B91940-6FFA-45C5-A24D-BA4BB7B0929E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FD7E63C3-DEF7-4DF3-AB8C-BCFA1DFF0D5D",
+    "height": 224,
+    "width": 312,
+    "x": 24,
+    "y": 1208
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "components / cards / image - mobile",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "13A411BA-6EEB-4167-9A03-9018F3184CDE_stringValue",
+      "value": "Woodworm control"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "23F7FB5F-0C8F-4A9A-BEFC-08E2E1BEEF20",
+      "overrideName": "4FBDB338-A398-477F-A5AC-B3B37C1CD195_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/31625dc9b0d5d8fa8061cc70adc8716324019324.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3AFFD19B-D63F-40DA-94A6-B06B6C2FF3E0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C6CC4CF5-D7BE-4FD3-8C0F-77421CFAF48B",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

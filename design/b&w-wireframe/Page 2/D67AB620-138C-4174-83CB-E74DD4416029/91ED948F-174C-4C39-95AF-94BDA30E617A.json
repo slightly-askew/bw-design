@@ -1,0 +1,80 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "91ED948F-174C-4C39-95AF-94BDA30E617A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E78970F3-6844-45B8-BBB4-8B16E1F96200",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B48B446D-A0D1-4963-B741-4AE9064E1761",
+    "height": 32,
+    "width": 32,
+    "x": 304,
+    "y": 40
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icon/burger",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EDEA8CFC-6A8F-468F-BF07-B906D7036D0F",
+      "overrideName": "74D0AB51-3557-47E2-B1FC-EEA0428042FD_layerStyle",
+      "value": "5905C058-F730-460C-AD6E-45A06624B090"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "499A84F8-18B5-422A-BD88-8BBCAE666C5B",
+      "overrideName": "810B0682-04AC-4A96-B15E-619ECCE21607_layerStyle",
+      "value": "9BCA5632-AF79-420A-8E57-2DF97EFEA758"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.6666666666666666,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "621EA8E8-7322-462F-9987-BA9CED057AB1",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 6.666666666666666,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "F95FA196-CBE4-499A-9256-EE215A6DBFE5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4FFC85E3-2F9A-4A6C-8F39-0EAC6BF8BC75",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

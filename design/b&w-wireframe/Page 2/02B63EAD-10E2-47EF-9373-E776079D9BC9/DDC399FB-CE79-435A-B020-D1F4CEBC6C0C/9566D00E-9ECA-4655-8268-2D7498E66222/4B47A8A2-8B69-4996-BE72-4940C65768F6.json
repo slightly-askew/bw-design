@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4B47A8A2-8B69-4996-BE72-4940C65768F6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B1432978-5E39-41E2-934C-FD32904F9B98",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6E7234E7-81E3-4363-A2A7-A49DB37E4F3C",
+    "height": 288,
+    "width": 336,
+    "x": 744,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "component/card/feature image",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "46539211-264F-42B9-B8D6-8D4FC168E7AC",
+      "overrideName": "643AD24D-2107-4C85-B650-EB6A72882295_stringValue",
+      "value": "Reducing condensation in your kitchen"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DB394081-891C-4805-A124-267BE518D5A6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "955F62EB-582C-4718-95F5-927A3263D904",
+  "verticalSpacing": 0
+}

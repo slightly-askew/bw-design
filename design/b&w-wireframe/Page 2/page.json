@@ -1,0 +1,183 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EEEE56E6-9AA6-4CCE-9A90-23111F89E124",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -562,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "D09CACB2-7C40-4E92-ACF9-960967E73A55"
+    },
+    {
+      "class": "artboard",
+      "id": "2E5D1E25-9F0E-4284-B536-E23EA3AA5A6B"
+    },
+    {
+      "class": "artboard",
+      "id": "79F12477-B6ED-41DE-81A5-46D8B25914FB"
+    },
+    {
+      "class": "artboard",
+      "id": "ED5D103B-2489-47C5-9ADE-9420FE8DF83A"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "792EBC9C-AA01-472D-9A05-8917207C6811"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "C67760A1-5F44-4F60-8441-E19D38EF14AA"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "842C0EC7-3103-4C2A-AFFC-92E08A23C61C"
+    },
+    {
+      "class": "group",
+      "id": "1CD99FB4-3F50-4276-840A-4D1FAE896144"
+    },
+    {
+      "class": "rectangle",
+      "id": "3AB22A42-BE5F-407D-BAFD-2957969E8317"
+    },
+    {
+      "class": "rectangle",
+      "id": "D2AF7C8E-F664-491D-90EC-E0F1F2927200"
+    },
+    {
+      "class": "artboard",
+      "id": "02B63EAD-10E2-47EF-9373-E776079D9BC9"
+    },
+    {
+      "class": "artboard",
+      "id": "BE111480-13C8-4783-9167-AA4122B4501D"
+    },
+    {
+      "class": "artboard",
+      "id": "D67AB620-138C-4174-83CB-E74DD4416029"
+    },
+    {
+      "class": "artboard",
+      "id": "7C92EF5C-2B0F-4FF6-A52C-C989F4A3D60D"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "7B314C85-0E23-49C8-9C21-2E1112AA93F3"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "5BD693B3-700E-4BB1-8CFD-2A9E9C4E5CCA"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "D74ED458-3B76-4638-8A77-883AB4AB2B3C"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "77157C51-9A2A-489C-BED1-28BE10691681"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "A734F378-309D-40B5-A2BC-7F45C3B3F461"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "C60B0AA3-94D2-44A2-A4A3-2A5A57F90691"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "831BC052-2DD1-48E0-9C16-D26E70ACC0C0"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "040DD0D7-636C-48A4-A3F0-2B6E56C15FC2"
+    },
+    {
+      "class": "artboard",
+      "id": "2E136D07-F140-457E-80E9-580095FE2580"
+    },
+    {
+      "class": "artboard",
+      "id": "4CCF76F2-FF41-4E34-896C-4B557E7F054E"
+    },
+    {
+      "class": "rectangle",
+      "id": "970C1AB9-C0FA-41D8-8636-9C0E557DB54E"
+    },
+    {
+      "class": "artboard",
+      "id": "4A804D2C-471E-4098-86E4-5577AD84CAAC"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 18,
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 8,
+    "gutterWidth": 8,
+    "guttersOutside": false,
+    "horizontalOffset": 8,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 304
+  },
+  "name": "Page 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "com.animaapp.uses.anima": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -463,
+    "guides": [
+    ]
+  }
+}

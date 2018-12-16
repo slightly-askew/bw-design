@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Rubik-Medium",
+              "name": "Rubik-Regular",
               "size": 21
             }
           },
@@ -34,6 +34,7 @@
     "string": "Maecenas semper suscipit nunc, sed aliquam sapien convallis eu. Nulla ut turpis in diam dapibus consequat."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "CC80C1A4-2D3F-4854-8BCE-1DB58F012DDC",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -55,7 +56,8 @@
     "x": 145,
     "y": 540
   },
-  "glyphBounds": "{{0, 5}, {366, 74}}",
+  "glyphBounds": "{{0, 5}, {353, 74}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -71,10 +73,10 @@
   "style": {
     "_class": "style",
     "do_objectID": "1230E199-1E86-4D8B-A985-CEE9628CF153",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
     "sharedObjectID": "7EA8D15C-AB69-4D08-860E-C07BEB99E9E5",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "A612BF70-436E-4877-8A7C-060CE688EF09",
@@ -89,7 +91,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Rubik-Medium",
+            "name": "Rubik-Regular",
             "size": 21
           }
         },
@@ -101,7 +103,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1,
   "userInfo": {

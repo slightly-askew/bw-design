@@ -4,16 +4,16 @@
   "name": "Colour / Flame / 80",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.294712984043619,
-          "green": 0.182159423828125,
-          "red": 0.49609375
+          "blue": 0.2941666666666668,
+          "green": 0.175,
+          "red": 0.5
         },
         "fillType": 0,
         "isEnabled": true,
@@ -25,6 +25,7 @@
     ],
     "miterLimit": 10,
     "sharedObjectID": "2A5D63FB-8940-4E97-A90B-9F985189B596",
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }

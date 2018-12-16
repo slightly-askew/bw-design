@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FCE0C026-6EC8-43E0-9066-CC2957F497CD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 64,
+    "width": 64,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "CA0B655C-1674-4CFA-9BE0-F89414B11BBC"
+    },
+    {
+      "class": "oval",
+      "id": "5AFB9310-FEC7-4DC6-8598-60A00A93F3EE"
+    },
+    {
+      "class": "shapePath",
+      "id": "AADE78E4-C319-4D7D-BE6B-90620ED07AA7"
+    },
+    {
+      "class": "shapePath",
+      "id": "B29FBB1A-19B0-4BC7-9595-8C1048A167A0"
+    },
+    {
+      "class": "rectangle",
+      "id": "E8842D51-370B-431F-995D-C230B64F28A9"
+    }
+  ],
+  "name": "apple icon grid",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

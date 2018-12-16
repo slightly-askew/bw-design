@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DC2A18E8-87C6-49F4-AF0E-CF947B372EF4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "58CEA467-1F5D-4D6E-A6E1-4C22B0F697B6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9140305E-5619-415F-A470-A1779A2AE45C",
+    "height": 256,
+    "width": 258,
+    "x": 1053,
+    "y": 552
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "999A68C4-BE6B-42F4-823C-7F4BC4752D29"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "79C00049-EEDD-481F-81BE-27DA5437FBE0"
+    }
+  ],
+  "name": "Guild badge",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "826A5E2F-9047-415C-AC16-D56C323B9149",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

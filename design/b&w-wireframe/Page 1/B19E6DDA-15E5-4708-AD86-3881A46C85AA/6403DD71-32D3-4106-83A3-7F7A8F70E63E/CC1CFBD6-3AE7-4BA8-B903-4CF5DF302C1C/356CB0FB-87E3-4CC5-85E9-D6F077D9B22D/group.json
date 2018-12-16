@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "356CB0FB-87E3-4CC5-85E9-D6F077D9B22D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4D05AD7E-00E4-42F1-B016-A6324203C6E6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BB1359D4-667E-44CA-944A-92CA8AE7A3C2",
+    "height": 429,
+    "width": 1184,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "5E98CB7F-EEA6-45C6-8E48-E79BB31CBDAA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3E993405-AC1E-4CFF-A58A-25172C1C029A"
+    }
+  ],
+  "name": "Row 1",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0FAFAADF-216D-45BD-9F26-F898223764D4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.davidwilliames.sketch-plugins.paddy2": {
+      "Alignment": [
+        3
+      ],
+      "Stack": {
+        "Collapsing": 1,
+        "Orientation": 2,
+        "Spacing": 64
+      }
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "506CCEBE-D5C4-46BE-AF45-3A3E2079A5B9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8E85EC76-5398-4840-8C36-4F10CB4E0743",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2EB55543-0217-4DAF-A9A4-51817D363BDC",
+    "height": 73.97299463304759,
+    "width": 98.58625531750315,
+    "x": 4.17845866229982,
+    "y": 6.027005366952758
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "DE03F24E-E646-41B0-AF2D-87E2E5FBADE1"
+    },
+    {
+      "class": "shapePath",
+      "id": "A49B0273-DD4B-400F-A6A5-7EDA36DF5706"
+    },
+    {
+      "class": "shapePath",
+      "id": "21839234-19D6-4219-A730-4419D89346FC"
+    },
+    {
+      "class": "shapePath",
+      "id": "1F653FE1-573F-4135-B97D-4EC8965ABF86"
+    },
+    {
+      "class": "shapePath",
+      "id": "0CADADB8-1F3E-4CB5-A7FE-F9FF6CE53068"
+    }
+  ],
+  "name": "Mask",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "BFEE19C0-6651-41D8-A6C3-315A27910D1D",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 7.44574,
+      "type": 0
+    },
+    "do_objectID": "A070FA96-EC68-4869-AD3D-320D7D6B111C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "windingRule": 1
+}

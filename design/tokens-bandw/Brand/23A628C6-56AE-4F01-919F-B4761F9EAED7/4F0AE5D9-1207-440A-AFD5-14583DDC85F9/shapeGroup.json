@@ -1,5 +1,6 @@
 {
   "_class": "shapeGroup",
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
   "do_objectID": "4F0AE5D9-1207-440A-AFD5-14583DDC85F9",
   "exportOptions": {
@@ -16,13 +17,14 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "7922E5A6-709C-42C1-9D6D-5448C676BD0E",
-    "height": 90.00000000000003,
-    "width": 108,
-    "x": 7.105427357601002e-15,
-    "y": 0
+    "height": 73.97299463304722,
+    "width": 95.58625531750313,
+    "x": 6.17845866229982,
+    "y": 7.027005366952757
   },
   "hasClickThrough": false,
   "hasClippingMask": true,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -31,23 +33,23 @@
   "layers": [
     {
       "class": "shapePath",
-      "id": "4D4C9F33-C896-4D2C-9606-4B20463B6A27"
+      "id": "5D789B86-DF7B-484B-8FCC-C50C4C09DA2E"
     },
     {
       "class": "shapePath",
-      "id": "B2CBCBFA-EA4C-4E89-BBE3-7AECD3786D5B"
+      "id": "175B3159-DD3C-4AA9-A808-EE73D11B8F3B"
     },
     {
       "class": "shapePath",
-      "id": "D938042B-EE7F-46CB-9278-B50D8E4ABD92"
+      "id": "D87E9DA9-15BF-4A7A-9B16-A8179CFAA482"
     },
     {
       "class": "shapePath",
-      "id": "728A1657-017F-45AF-9079-B1C27C1E0C41"
+      "id": "EE1A3B00-5A75-4E57-8B45-4D1F9878919C"
     },
     {
       "class": "shapePath",
-      "id": "57BBE1A2-8823-4A60-88AD-16AADA038407"
+      "id": "0E422D28-6847-411A-A45E-485D1BA3B2FD"
     }
   ],
   "name": "Mask",
@@ -68,9 +70,10 @@
       "type": 0
     },
     "do_objectID": "AD8C384E-E624-4DE9-BC84-9E75B18E4488",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {

@@ -34,6 +34,7 @@
     "string": "The intention for different colour schemes is that\ndifferent areas of the website will have differing themes."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "22B9A91F-BC2B-44E7-8CB5-8B6B84F6E3F7",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -56,6 +57,7 @@
     "y": 153
   },
   "glyphBounds": "{{0, 10}, {879, 82}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -71,10 +73,10 @@
   "style": {
     "_class": "style",
     "do_objectID": "B5DB7E75-3A9E-4CA1-B17E-C4205E290332",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
     "sharedObjectID": "EC82B34C-6C34-41CB-9C83-A089DB5B8EED",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "286E4342-9174-4225-B4C0-001C335B959F",
@@ -101,7 +103,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0,
   "userInfo": {

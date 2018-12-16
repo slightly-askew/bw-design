@@ -35,6 +35,7 @@
     "string": "Used whenever a colour is used in the designs to make life easier if minor colour corrections \nare implemented during the project."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "095C40E1-8815-4288-B3B7-D945E0A6405A",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -57,6 +58,7 @@
     "y": 126
   },
   "glyphBounds": "{{0, 13}, {566, 194}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -72,10 +74,10 @@
   "style": {
     "_class": "style",
     "do_objectID": "1C6EAAA7-B8BE-486B-92EF-090F639968C5",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
     "sharedObjectID": "075D3D21-B4BB-407E-A0CF-C15E3D11904D",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "21773426-7C0F-4DE0-BCD2-AD252077C8BC",
@@ -103,7 +105,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1,
   "userInfo": {

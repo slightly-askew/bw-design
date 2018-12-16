@@ -63,6 +63,7 @@
     "string": "Paragraph 2 · 11 18"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "4162E534-ABE8-439C-905D-6EECF164B632",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -85,6 +86,7 @@
     "y": 276
   },
   "glyphBounds": "{{0, 4}, {97, 11}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -100,10 +102,10 @@
   "style": {
     "_class": "style",
     "do_objectID": "B8695F63-E642-4D3B-A09A-F541CFD8E235",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
     "sharedObjectID": "075D3D21-B4BB-407E-A0CF-C15E3D11904D",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "855D7BF2-5CC9-47EC-9E31-3901C9E00CCF",
@@ -131,7 +133,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0,
   "userInfo": {

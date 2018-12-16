@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E6ED1288-2DE9-456A-93BC-4119949EC91D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FE8F1D34-32D1-4E12-8D0F-CD39FE6D7F21",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B5001222-41DC-4270-83D8-431B1FD704C0",
+    "height": 104,
+    "width": 392,
+    "x": 0,
+    "y": 408
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "226A1584-FC36-4ABB-AD83-44E3B6A3E348"
+    },
+    {
+      "class": "text",
+      "id": "BA447D0F-56A6-4F38-A9B5-8BC166F6E766"
+    }
+  ],
+  "name": "Service - short description",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B77CFA65-B88F-4E65-B778-7E97152FD690",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

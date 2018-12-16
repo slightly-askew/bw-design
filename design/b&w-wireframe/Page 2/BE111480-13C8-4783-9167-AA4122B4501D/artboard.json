@@ -1,0 +1,113 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "E58DC19E-1B36-4A89-B49B-C0E0FCD42B2C",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BE111480-13C8-4783-9167-AA4122B4501D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FC4D0D6E-5585-4624-9EAF-7D846E2424C2",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4749B393-F5D8-42A1-A4F1-01DC3EA3590E",
+    "height": 1024,
+    "width": 1024,
+    "x": 319,
+    "y": -2612
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 8,
+    "isEnabled": true,
+    "thickGridTimes": 4
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6BD1A78B-71FF-434E-A12D-B5A032EBC26E",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "8D33C392-D26B-490C-A581-467C3BAC06BC"
+    },
+    {
+      "class": "shapePath",
+      "id": "2FC84F77-EBCD-47FB-AF11-B8171378EAC4"
+    },
+    {
+      "class": "shapePath",
+      "id": "98A4E0C0-BC88-454E-9FD6-9F8D74E3FA3F"
+    }
+  ],
+  "name": "burger-bar",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "4C0886A4-A3AC-4F1E-B89C-9E9D53C72BD8",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 160,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "45753F87-174B-4A40-99EF-ACF347910523",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "82FC4C53-BC71-428F-8285-31FE1BBCEDFC",
+    "guides": [
+    ]
+  }
+}

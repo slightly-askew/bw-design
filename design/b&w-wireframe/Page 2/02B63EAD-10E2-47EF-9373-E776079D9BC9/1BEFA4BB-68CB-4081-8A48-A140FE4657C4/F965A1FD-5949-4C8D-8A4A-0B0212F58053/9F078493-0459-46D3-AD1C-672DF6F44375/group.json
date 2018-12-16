@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9F078493-0459-46D3-AD1C-672DF6F44375",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CFDDFAD1-28A5-4B0F-82AD-F81808502764",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E6A138D3-9B55-4C07-A749-B4C9F68E8C35",
+    "height": 37,
+    "width": 192,
+    "x": 1004,
+    "y": 23
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "36D289A5-711D-427D-B223-856FB9397DDB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5464C04B-071A-4ED4-B2BB-BE91A1F23A25"
+    }
+  ],
+  "name": "telephone",
+  "nameIsFixed": true,
+  "resizingConstraint": 44,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6E702AFC-B6F9-4A2B-B70A-A9F8C27786C7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

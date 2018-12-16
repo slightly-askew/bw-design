@@ -1,0 +1,178 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BCAF12D8-1290-4FAF-BDF0-E412CC0D6C20",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "87E28161-88DD-471F-9255-1633A9244C6B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DA422F33-A704-44B1-B70F-02D2262BECBA",
+    "height": 184,
+    "width": 184,
+    "x": -6,
+    "y": -6
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "17B01C04-E4FB-49C9-A835-DBFF10AB00BA"
+    },
+    {
+      "class": "oval",
+      "id": "8301E28C-A58A-4941-B25C-7A69E02252F4"
+    },
+    {
+      "class": "oval",
+      "id": "00EC9365-A07B-42B2-BA04-0FBF28CA78A6"
+    },
+    {
+      "class": "oval",
+      "id": "3CFA32AA-E357-435A-B1B1-DF0BBB812485"
+    },
+    {
+      "class": "oval",
+      "id": "B09799E1-63FE-4881-A0EA-FCD09075A89A"
+    },
+    {
+      "class": "oval",
+      "id": "097BE18E-457E-4EE8-B9A7-D5863D1654B8"
+    },
+    {
+      "class": "oval",
+      "id": "CA40C2D9-A656-48AA-8E32-1A35F0683C35"
+    },
+    {
+      "class": "oval",
+      "id": "47AF47DC-3480-4C7B-83B0-54E2F7AB3EC2"
+    },
+    {
+      "class": "oval",
+      "id": "153E5BC6-4828-4D7E-BEAA-E1AE53E5E37D"
+    },
+    {
+      "class": "oval",
+      "id": "D223F970-D834-4BD2-8516-016F2612061A"
+    },
+    {
+      "class": "oval",
+      "id": "58E5B8D3-B5EE-4DA4-972C-723CDC2D0E9C"
+    },
+    {
+      "class": "oval",
+      "id": "A3502F7E-53DF-4478-93BC-79AF62787AA0"
+    },
+    {
+      "class": "oval",
+      "id": "3A2391A8-128D-4803-9317-4C1BC39BA509"
+    },
+    {
+      "class": "oval",
+      "id": "AC6447EB-8140-400C-8F95-9F33A3DD2A4B"
+    },
+    {
+      "class": "oval",
+      "id": "49C51E1E-A3FA-4817-B380-A561126A2905"
+    },
+    {
+      "class": "oval",
+      "id": "499BBB00-E173-449A-9219-4D8BC5897B34"
+    },
+    {
+      "class": "oval",
+      "id": "1EB0CBD1-AD47-4FF2-A7EA-31A8F1AA26A0"
+    },
+    {
+      "class": "oval",
+      "id": "20AF0D0C-F645-4CC5-B95C-D3D2CFC3688E"
+    },
+    {
+      "class": "oval",
+      "id": "680176BD-7D26-483C-A9BA-3AB7CDBA5074"
+    },
+    {
+      "class": "oval",
+      "id": "3271699A-6769-4BC4-A336-29B84C490321"
+    },
+    {
+      "class": "oval",
+      "id": "AFD3861E-D255-4E5A-9D99-17BFC0294EB4"
+    },
+    {
+      "class": "oval",
+      "id": "F3E48125-05C1-4371-A553-14BD22694897"
+    },
+    {
+      "class": "oval",
+      "id": "D832B18C-BDE6-4629-9505-3E2D00DB8420"
+    },
+    {
+      "class": "oval",
+      "id": "2559C09A-C78F-46EC-AC83-FB97A8C50B39"
+    },
+    {
+      "class": "oval",
+      "id": "FBF09610-EF27-4CEE-BAF0-EDB84E897AE9"
+    },
+    {
+      "class": "rectangle",
+      "id": "110E8E84-3A6A-41B3-BBF9-20696DE44B00"
+    }
+  ],
+  "name": "Combined Shape",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "487654ED-1346-4ACE-B537-F06970405AF8",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3754783163265306,
+          "green": 0.200724746241714,
+          "red": 0.2584219167996087
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "windingRule": 1
+}

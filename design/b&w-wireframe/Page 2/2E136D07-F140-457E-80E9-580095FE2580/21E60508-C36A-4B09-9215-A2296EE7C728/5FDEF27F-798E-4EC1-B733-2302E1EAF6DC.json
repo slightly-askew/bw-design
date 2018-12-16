@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5FDEF27F-798E-4EC1-B733-2302E1EAF6DC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 64,
+    "width": 296,
+    "x": 0,
+    "y": 80
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "components/mobile-menu/service-large",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E4070B47-8AC7-466D-822D-4D98F530B0F3",
+      "overrideName": "EBA76EEC-2AD6-4C0A-AFB5-FC628845345D_stringValue",
+      "value": "Wood boring beetles and other infestations"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0F621FC2-096F-46BE-B601-6FE2ABEDCEF8",
+      "overrideName": "E1C06A2E-85AC-429E-98F2-D8DEEF3C004E_stringValue",
+      "value": "Woodworm"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "01515554-6BC7-46E3-B024-2F469F9DFEAB",
+      "overrideName": "2E093E8A-A3DE-4A5E-8298-B649A15ECD85_symbolID",
+      "value": "BDD83169-EDCE-4A76-B136-5B9814A9223C"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "960974D5-E9CF-4795-86B3-8E988D79B77A",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
